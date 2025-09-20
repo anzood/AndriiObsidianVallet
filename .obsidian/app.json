@@ -1,0 +1,11 @@
+{
+  "readableLineLength": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "pages",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "assets",
+  "userIgnoreFilters": [
+    "templates/"
+  ],
+  "showInlineTitle": false
+}
