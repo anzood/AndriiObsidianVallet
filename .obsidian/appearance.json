@@ -1,3 +1,5 @@
 {
-  "accentColor": "#9dccd2"
+  "accentColor": "#9dccd2",
+  "cssTheme": "Border",
+  "theme": "system"
 }
