@@ -13,6 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "templates/gym day 1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "gym day 1"
+            }
+          },
+          {
+            "id": "7ca7c7d1b07cabdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Homepage.md",
                 "mode": "source",
                 "source": false,
@@ -31,7 +55,8 @@
               "title": "Homepage"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,6 +122,7 @@
       {
         "id": "48dbc5949c915cd8",
         "type": "tabs",
+        "dimension": 37.21461187214612,
         "children": [
           {
             "id": "6e2cc6e07f078104",
@@ -147,21 +173,6 @@
             }
           },
           {
-            "id": "3fa0bb19b8979e28",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Homepage.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Homepage"
-            }
-          },
-          {
             "id": "c7cffd4dbf285717",
             "type": "leaf",
             "state": {
@@ -197,12 +208,34 @@
               "title": "All properties"
             }
           }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "0959b10a66d767dd",
+        "type": "tabs",
+        "dimension": 62.78538812785388,
+        "children": [
+          {
+            "id": "3fa0bb19b8979e28",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Homepage.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Homepage"
+            }
+          }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 263.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,12 +255,32 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9a92a1a4b3db5142",
+  "active": "7ca7c7d1b07cabdc",
   "lastOpenFiles": [
-    "templates",
-    "pages",
-    "journals",
-    "drawings",
-    "assets"
+    "journals/2025/09/2025-09-20.md",
+    "templates/gym day 2.md",
+    "templates/gym day 1.md",
+    "assets/Тага вертикального блока.mp4",
+    "assets/Отведение рук с гантелями.mp4",
+    "assets/Сгибание стопы.mp4",
+    "assets/Згибанте стопы.mp4",
+    "assets/Гиперэкстензия.mp4",
+    "assets/Сгибание ног в тренажере.mp4",
+    "assets/Жим гантелей на скамейке.mp4",
+    "assets/Разгибание рук на блоке.mp4",
+    "assets/Скручивание с диском.mp4",
+    "assets/Сгибание рук на блоке.mp4",
+    "assets/0E710052-93EE-4CF3-8A89-D7951BE11475_1_102_o.jpeg",
+    "assets/420F73D1-6645-4F95-9A78-45C24E6374BF_1_102_o.jpeg",
+    "assets/C388405B-6BC1-4D06-9976-4994E766C456_1_102_o.jpeg",
+    "assets/BB3BA049-89AB-4E70-AC3D-C4A0B5160AE8_1_102_o.jpeg",
+    "assets/D5C93B93-4462-4665-9670-E6E73DE8E6F1_1_102_o.jpeg",
+    "assets/4958A663-E3D5-4E56-853B-A0317BE5ABF6_1_102_o.jpeg",
+    "assets/203CB06D-9099-4C05-A70B-1D7B0B368567_1_102_o.jpeg",
+    "assets/01273C48-FB2E-4B17-822F-199E02B50601_1_102_o.jpeg",
+    "assets/A6197A22-E248-472A-AB38-93616ED1FF90_1_102_o.jpeg",
+    "assets/6A12F44B-A5FB-405E-8246-DB546AB4BF84_4_5005_c.jpeg",
+    "Homepage.md",
+    "templates/daily.md"
   ]
 }
