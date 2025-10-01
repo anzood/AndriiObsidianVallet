@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journals/2025/09/2025-09-22.md",
+                "file": "pages/Питание.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-09-22"
+              "title": "Питание"
             }
           }
         ],
@@ -222,13 +222,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journals/2025/09/2025-09-22.md",
+                "file": "pages/Питание.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-09-22"
+              "title": "Outline of Питание"
             }
           }
         ]
@@ -253,17 +253,18 @@
   },
   "active": "0c864b234ea351f5",
   "lastOpenFiles": [
+    "pages/Рецепты.md",
+    "pages/Питание.md",
+    "pages/Spheres.md",
     "journals/2025/09/2025-09-23.md",
     "journals/2025/09/2025-09-22.md",
-    "templates/gym day 2.md",
-    "templates/gym day 1.md",
     "journals/2025/09/2025-09-26.md",
     "journals/2025/09/2025-09-24.md",
-    "templates/daily.md",
-    "pages/Питание.md",
-    "Homepage.md",
-    "pages/Spheres.md",
     "journals/2025/09/2025-09-25.md",
+    "templates/gym day 2.md",
+    "templates/gym day 1.md",
+    "templates/daily.md",
+    "Homepage.md",
     "journals/2025/09/2025-09-21.md",
     "journals/2025/09/2025-09-20.md",
     "assets/Тага вертикального блока.mp4",
