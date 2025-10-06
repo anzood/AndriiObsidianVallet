@@ -54,9 +54,21 @@
               "icon": "lucide-file",
               "title": "Питание"
             }
+          },
+          {
+            "id": "ba67a5df93d426be",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -222,13 +234,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/Питание.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Питание"
+              "title": "Outline"
             }
           }
         ]
@@ -251,18 +262,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0c864b234ea351f5",
+  "active": "ba67a5df93d426be",
   "lastOpenFiles": [
-    "pages/Рецепты.md",
+    "journals/2025/10/2025-10-06.md",
+    "templates/gym day 2.md",
+    "templates/gym day 1.md",
     "pages/Питание.md",
+    "pages/Рецепты.md",
     "pages/Spheres.md",
     "journals/2025/09/2025-09-23.md",
     "journals/2025/09/2025-09-22.md",
     "journals/2025/09/2025-09-26.md",
     "journals/2025/09/2025-09-24.md",
     "journals/2025/09/2025-09-25.md",
-    "templates/gym day 2.md",
-    "templates/gym day 1.md",
     "templates/daily.md",
     "Homepage.md",
     "journals/2025/09/2025-09-21.md",
