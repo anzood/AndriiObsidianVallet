@@ -247,8 +247,7 @@
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "templater-obsidian:Templater": false,
-      "github-sync:Sync with Remote": false,
-      "periodic-notes:Open today": false
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "6cd217bc237ffa23",
