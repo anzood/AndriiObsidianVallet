@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journals/2025/10/2025-10-08.md",
+                "file": "journals/2025/10/2025-10-15.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-10-08"
+              "title": "2025-10-15"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/gym day 1.md",
+                "file": "templates/gym day 2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "gym day 1"
+              "title": "gym day 2"
             }
           }
         ],
@@ -222,13 +222,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/gym day 1.md",
+                "file": "templates/gym day 2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of gym day 1"
+              "title": "Outline of gym day 2"
             }
           }
         ]
@@ -247,17 +247,20 @@
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "templater-obsidian:Templater": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "6cd217bc237ffa23",
   "lastOpenFiles": [
-    "journals/2025/10/2025-10-08.md",
+    "journals/2025/10/2025-10-15.md",
+    "templates/gym day 2.md",
     "templates/gym day 1.md",
+    "journals/2025/10/2025-10-17.md",
+    "journals/2025/10/2025-10-08.md",
     "journals/2025/10/2025-10-10.md",
     "journals/2025/10/2025-10-13.md",
     "journals/2025/10/2025-10-06.md",
-    "templates/gym day 2.md",
     "Homepage.md",
     "pages/Питание.md",
     "pages/Рецепты.md",
