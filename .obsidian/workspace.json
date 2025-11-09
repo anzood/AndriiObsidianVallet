@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/gym day 2.md",
+                "file": "journals/2025/11/2025-11-03.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "gym day 2"
+              "title": "2025-11-03"
             }
           }
         ],
@@ -222,13 +222,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/gym day 2.md",
+                "file": "journals/2025/11/2025-11-03.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of gym day 2"
+              "title": "Outline of 2025-11-03"
             }
           }
         ]
@@ -253,8 +253,11 @@
   },
   "active": "6cd217bc237ffa23",
   "lastOpenFiles": [
-    "journals/2025/10/2025-10-15.md",
+    "journals/2025/10/2025-10-29.md",
+    "journals/2025/11/2025-11-03.md",
+    "journals/2025/11",
     "templates/gym day 2.md",
+    "journals/2025/10/2025-10-15.md",
     "templates/gym day 1.md",
     "journals/2025/10/2025-10-17.md",
     "journals/2025/10/2025-10-08.md",
@@ -282,7 +285,6 @@
     "assets/Жим гантелей на скамейке.mp4",
     "assets/Разгибание рук на блоке.mp4",
     "assets/Скручивание с диском.mp4",
-    "assets/Сгибание рук на блоке.mp4",
     "assets/0E710052-93EE-4CF3-8A89-D7951BE11475_1_102_o.jpeg",
     "assets/420F73D1-6645-4F95-9A78-45C24E6374BF_1_102_o.jpeg",
     "assets/C388405B-6BC1-4D06-9976-4994E766C456_1_102_o.jpeg",
