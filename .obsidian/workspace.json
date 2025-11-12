@@ -54,9 +54,33 @@
               "icon": "lucide-file",
               "title": "2025-11-03"
             }
+          },
+          {
+            "id": "ce2b8512e6798273",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "journals/2025/11/2025-11-12.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-11-12"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -222,13 +246,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journals/2025/11/2025-11-03.md",
+                "file": "journals/2025/11/2025-11-12.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-11-03"
+              "title": "Outline of 2025-11-12"
             }
           }
         ]
@@ -251,10 +275,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6cd217bc237ffa23",
+  "active": "ce2b8512e6798273",
   "lastOpenFiles": [
-    "journals/2025/10/2025-10-29.md",
     "journals/2025/11/2025-11-03.md",
+    "journals/2025/11/2025-11-12.md",
+    "journals/2025/10/2025-10-29.md",
+    "pages/Рецепты.md",
+    "pages/Semantic HTML tags.md",
     "journals/2025/11",
     "templates/gym day 2.md",
     "journals/2025/10/2025-10-15.md",
@@ -266,7 +293,6 @@
     "journals/2025/10/2025-10-06.md",
     "Homepage.md",
     "pages/Питание.md",
-    "pages/Рецепты.md",
     "pages/Spheres.md",
     "journals/2025/09/2025-09-23.md",
     "journals/2025/09/2025-09-22.md",
