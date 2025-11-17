@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "6cd217bc237ffa23",
+            "id": "b11a0a8e7acd9096",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journals/2025/11/2025-11-03.md",
+                "file": "pages/Project ideas.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-11-03"
+              "title": "Project ideas"
             }
           },
           {
-            "id": "ce2b8512e6798273",
+            "id": "0188324cbd474a04",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journals/2025/11/2025-11-12.md",
+                "file": "pages/Budget.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-11-12"
+              "title": "Budget"
             }
           }
         ],
@@ -246,13 +246,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journals/2025/11/2025-11-12.md",
+                "file": "pages/Budget.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-11-12"
+              "title": "Outline of Budget"
             }
           }
         ]
@@ -271,17 +271,18 @@
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "templater-obsidian:Templater": false,
-      "github-sync:Sync with Remote": false,
-      "periodic-notes:Open today": false
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "ce2b8512e6798273",
+  "active": "0188324cbd474a04",
   "lastOpenFiles": [
+    "pages/Project ideas.md",
+    "pages/Budget.md",
+    "pages/Semantic HTML tags.md",
     "journals/2025/11/2025-11-03.md",
     "journals/2025/11/2025-11-12.md",
     "journals/2025/10/2025-10-29.md",
     "pages/Рецепты.md",
-    "pages/Semantic HTML tags.md",
     "journals/2025/11",
     "templates/gym day 2.md",
     "journals/2025/10/2025-10-15.md",
