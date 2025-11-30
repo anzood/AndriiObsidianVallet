@@ -2,6 +2,8 @@
 tags:
   - moc
 created: <% tp.file.creation_date() %>
+lang: en
+
 ---
 
 # <% tp.file.title %>

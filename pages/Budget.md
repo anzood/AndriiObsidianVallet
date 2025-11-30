@@ -2,6 +2,7 @@
 tags:
   - "#idea"
   - "#income"
+  - wealth
 ---
 # **Project Spenc: Lean Budget & AI Receipt Scanner**
 

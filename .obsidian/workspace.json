@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/moc.md",
+                "file": "pages/Admin.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "moc"
+              "title": "Admin"
+            }
+          },
+          {
+            "id": "c70fef58d2d16ee4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/Health.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Health"
             }
           }
         ]
@@ -63,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#health",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -184,7 +208,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "0959b10a66d767dd",
@@ -197,13 +221,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/moc.md",
+                "file": "pages/Admin.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of moc"
+              "title": "Outline of Admin"
             }
           }
         ]
@@ -228,33 +252,33 @@
   },
   "active": "fcb5e761244ca062",
   "lastOpenFiles": [
+    "Homepage.md",
+    "pages/Fullstack Development Course.md",
+    "pages/Play.md",
+    "pages/Growth.md",
+    "pages/Social.md",
+    "pages/Admin.md",
+    "pages/Wealth.md",
+    "pages/Career.md",
+    "pages/Family.md",
+    "pages/Health.md",
+    "pages/Упражнения для мышц шеи.md",
+    "pages/Spheres.md",
+    "pages/Map of Content.md",
+    "pages/Inbox.md",
+    "pages/Budget.md",
+    "pages/Antigravity.md",
+    "pages/Tasks.md",
+    "journals/2025/11/2025-11-30.md",
+    "pages/Рецепти.md",
+    "pages/Питание.md",
+    "templates/daily.md",
     "templates/new_note.md",
     "templates/moc.md",
-    "pages/Map of Content.md",
-    "Homepage.md",
-    "journals/2025/11/2025-11-30.md",
-    "pages/Antigravity.md",
-    "pages/Budget.md",
-    "pages/Tasks.md",
-    "pages/Work.md",
-    "templates/daily.md",
     "journals/2025/12/2025-12-02.md",
     "journals/2025/12",
-    "pages/Inbox.md",
-    "pages/Spheres.md",
-    "pages/Friends.md",
-    "pages/Life.md",
-    "pages/Development.md",
-    "pages/Recreation.md",
-    "pages/Income.md",
-    "pages/Family.md",
     "journals/2025/09/2025-09-20.md",
     "journals/2025/09/2025-09-21.md",
-    "journals/2025/09/2025-09-22.md",
-    "journals/2025/09/2025-09-23.md",
-    "journals/2025/09/2025-09-24.md",
-    "journals/2025/09/2025-09-25.md",
-    "journals/2025/09/2025-09-26.md",
     "journals/2025/11",
     "assets/Тага вертикального блока.mp4",
     "assets/Отведение рук с гантелями.mp4",

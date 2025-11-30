@@ -6,6 +6,7 @@ up:
   - "[[Map of Content]]"
 related:
   -
+lang: en
 ---
 
 # <% tp.file.title %>

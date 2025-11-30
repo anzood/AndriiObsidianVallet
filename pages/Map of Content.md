@@ -12,10 +12,11 @@ _The central hub for all my knowledge. Everything flows from here._
 
 ## 🗂️ Key Topics
 
-- [[Development]]
+- [[Growth]]
 - [[Health]]
-- [[Finance]]
-- [[Hobbies]]
+- [[Wealth]]
+- [[Play]]
+- [[Career]]
 
 ## 📥 Inbox
 

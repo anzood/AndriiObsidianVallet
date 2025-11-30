@@ -2,11 +2,11 @@
 
 ## 🧭 Main Spheres
 
-| [[Health]] | [[Family]] | [[Work]] | [[Income]] | [[Recreation]] | [[Development]] | [[Life]] | [[Friends]] |
+| [[Health]] | [[Family]] | [[Career]] | [[Wealth]] | [[Play]] | [[Growth]] | [[Admin]] | [[Social]] |
 
 ## 📥 Recent Thoughts
 ```dataview
-LIST
+LIST WITHOUT ID link(file.link, file.name) + " (" + default(lang, "en") + ")"
 FROM "pages"
 SORT file.mtime DESC
 LIMIT 5

@@ -1,79 +1,88 @@
 # Life Spheres System
 
-*The 8-sphere framework for comprehensive life organization and balanced growth.*
+> [!INFO] **Core Philosophy**
+> Life is multidimensional, and success requires intentional focus across all key areas. The 8-Sphere Framework ensures no important aspect of life is neglected while maintaining clear priorities and actionable goals.
 
-## 🌟 Core Philosophy
-
-Life is multidimensional, and success requires intentional focus across all key areas. The sphere system ensures no important aspect of life is neglected while maintaining clear priorities and actionable goals.
+---
 
 ## 🎯 The 8 Life Spheres
 
-### 🏥 [[Health]] - Physical & Mental Wellbeing
-**Focus**: Healthcare, nutrition, fitness, mental health, and longevity
+### 🏥 [[Health]]
+**Focus**: Bio-maintenance, fitness, nutrition, and sleep.
+*The foundation that makes everything else possible.*
 - Medical care and preventive health
-- Nutrition planning and meal preparation  
+- Nutrition planning and meal preparation
 - Exercise routines and physical fitness
-- Mental health and stress management
+- Mental health, sleep hygiene, and stress management
 
----
-
-### 👨‍👩‍👧‍👦 [[Family]] - Relationships & Connections
-**Focus**: Family relationships, quality time, and meaningful connections
+### 👨‍👩‍👧‍👦 [[Family]]
+**Focus**: Spouse, children, parents, and siblings.
+*Deep ties, unconditional support, and legacy.*
 - Building closer family bonds
-- Quality time with spouse and children
+- Quality time with partner and children
 - Family activities and traditions
-- Communication and relationship building
+- Communication and relationship maintenance
 
----
-
-### 💼 [[Work]] - Professional Development
-**Focus**: Career growth, professional skills, and workplace excellence
+### 💼 [[Career]]
+**Focus**: Employment, deliverables, and leadership.
+*Professional output and the "9-to-5".*
 - Current job responsibilities and projects
-- Professional skill development
+- Execution of professional skills (Output)
 - Team collaboration and leadership
-- Work-life balance optimization
+- Promotion paths and role optimization
 
----
+### 💰 [[Wealth]]
+**Focus**: Investing, budgeting, and revenue generation.
+*Resource management and financial freedom.*
+- **Side projects and business ventures** (Active Income)
+- Investment learning and portfolio building (Passive Income)
+- Financial planning, budgeting, and tax strategy
+- Asset accumulation
 
-### 💰 [[Income]] - Financial Growth & Investment
-**Focus**: Additional income streams, investments, and financial security
-- Side projects and business ventures
-- Investment learning and portfolio building
-- Passive income development
-- Financial planning and budgeting
+### 👥 [[Social]]
+**Focus**: Friendships, professional network, and community.
+*Connection, belonging, and social capital.*
+- Building and maintaining close friendships
+- **Networking and professional relationships**
+- Social skill development
+- Community involvement and volunteering
 
----
-
-### 🎨 [[Recreation]] - Rest & Energy Restoration
-**Focus**: Leisure activities, hobbies, and energy renewal
-- Stress relief and relaxation
-- Hobbies and creative pursuits
-- Entertainment and fun activities
-- Travel and exploration
-
----
-
-### 📚 [[Development]] - Learning & Personal Growth
-**Focus**: Continuous learning, skill building, and self-improvement
-- Technical skill development
-- Personal growth and mindset
-- Knowledge acquisition and application
+### 📚 [[Growth]]
+**Focus**: Reading, courses, skills, mindset, and habits.
+*The "Input" sphere: Absorbing new capabilities.*
+- Technical skill acquisition (Input/Learning)
+- Reading (books, articles, research)
+- Personal growth and mindset work
 - Habit formation and behavior change
 
+### 🎨 [[Play]]
+**Focus**: Hobbies, travel, gaming, and pure relaxation.
+*Restoration, joy, and unplugging.*
+- Creative pursuits (art, music, writing for fun)
+- Hobbies and gaming
+- Travel and exploration
+- True leisure and "do nothing" time
+
+### 🏠 [[Admin]]
+**Focus**: Home maintenance, chores, logistics, and scheduling.
+*The "Operating System" of daily life.*
+- Home organization, cleaning, and repairs
+- Daily routines and system optimization
+- Administrative tasks (paperwork, scheduling)
+- Life logistics and efficiency
+
 ---
 
-### 🏠 [[Life]] - Daily Organization & Management
-**Focus**: Household management, routine optimization, and life administration
-- Home organization and maintenance
-- Daily routines and systems
-- Administrative tasks and logistics
-- Life optimization and efficiency
+## 📊 Sphere Balance Check
+*To be filled during Weekly Review*
 
----
-
-### 👥 [[Friends]] - Social Connections & Networking
-**Focus**: Friendships, social skills, and community building
-- Building and maintaining friendships
-- Social skill development
-- Networking and professional relationships
-- Community involvement and contribution
+| Sphere     | Satisfaction (1-10) | Current Focus |
+| :--------- | :-----------------: | :------------ |
+| [[Health]] |                     |               |
+| [[Family]] |                     |               |
+| [[Career]] |                     |               |
+| [[Wealth]] |                     |               |
+| [[Social]] |                     |               |
+| [[Growth]] |                     |               |
+| [[Play]]   |                     |               |
+| [[Admin]]  |                     |               |
