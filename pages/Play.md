@@ -37,7 +37,3 @@ tags:
 ---
 
 ## 📋 Tasks
-* - [ ] Book Airbnb for weekend
-* - [ ] Buy tickets for the concert
-* - [ ] Research hiking trails for Sunday
-* - [ ] Watch the new movie release

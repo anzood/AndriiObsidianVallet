@@ -34,7 +34,7 @@ tags:
 ---
 
 ## 📋 Tasks
-* - [ ] Text [Name] to set up lunch
-* - [ ] RSVP to the wedding invite
-* - [ ] Send follow-up email to [Networking Contact]
-* - [ ] Plan venue for birthday gathering
+- Text [Name] to set up lunch
+- RSVP to the wedding invite
+* Send follow-up email to [Networking Contact]
+* Plan venue for birthday gathering

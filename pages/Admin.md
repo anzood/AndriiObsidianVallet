@@ -39,7 +39,4 @@ tags:
 ---
 
 ## 📋 Tasks
-* - [ ] Pay electricity bill
-* - [ ] Schedule car inspection
-* - [ ] Back up laptop to external drive
-* - [ ] Order replacement water filter
+- [ ] Admin test task

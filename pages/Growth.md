@@ -38,7 +38,3 @@ tags:
 ---
 
 ## 📋 Tasks
-* - [ ] Read Chapter 4 of current book
-* - [ ] Complete Module 2 of online course
-* - [ ] Practice Spanish vocabulary for 15 mins
-* - [ ] Update reading list with new recommendations

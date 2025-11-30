@@ -13,6 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "journals/2025/12/2025-12-02.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-02"
+            }
+          },
+          {
+            "id": "c70fef58d2d16ee4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "templates/daily.md",
                 "mode": "source",
                 "source": false,
@@ -29,30 +53,6 @@
               },
               "icon": "lucide-file",
               "title": "daily"
-            }
-          },
-          {
-            "id": "c70fef58d2d16ee4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/Health.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Health"
             }
           }
         ]
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#health",
+                "query": "tag:#video",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -157,21 +157,6 @@
             }
           },
           {
-            "id": "8de38fce84765523",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
             "id": "c7cffd4dbf285717",
             "type": "leaf",
             "state": {
@@ -221,16 +206,32 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/daily.md",
+                "file": "journals/2025/12/2025-12-02.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of daily"
+              "title": "Outline of 2025-12-02"
+            }
+          },
+          {
+            "id": "8de38fce84765523",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -252,33 +253,33 @@
   },
   "active": "fcb5e761244ca062",
   "lastOpenFiles": [
-    "pages/Admin.md",
-    "Homepage.md",
-    "pages/Fullstack Development Course.md",
-    "pages/Play.md",
-    "pages/Growth.md",
-    "pages/Social.md",
-    "pages/Wealth.md",
-    "pages/Career.md",
-    "pages/Family.md",
     "pages/Health.md",
+    "journals/2025/12/2025-12-02.md",
+    "pages/Career.md",
+    "pages/Tag System.md",
+    "journals/2025/11/2025-11-30.md",
+    "Homepage.md",
     "pages/Упражнения для мышц шеи.md",
-    "pages/Spheres.md",
+    "pages/Fullstack Development Course.md",
+    "pages/Tasks.md",
+    "pages/Antigravity system prompt.md",
+    "pages/Semantic HTML tags.md",
+    "pages/Project ideas.md",
+    "pages/Play.md",
     "pages/Map of Content.md",
+    "templates/daily.md",
+    "pages/Social.md",
+    "pages/Admin.md",
+    "pages/Growth.md",
+    "pages/Wealth.md",
+    "pages/Family.md",
+    "pages/Spheres.md",
     "pages/Inbox.md",
     "pages/Budget.md",
-    "pages/Antigravity.md",
-    "pages/Tasks.md",
-    "journals/2025/11/2025-11-30.md",
     "pages/Рецепти.md",
     "pages/Питание.md",
-    "templates/daily.md",
     "templates/new_note.md",
-    "templates/moc.md",
-    "journals/2025/12/2025-12-02.md",
     "journals/2025/12",
-    "journals/2025/09/2025-09-20.md",
-    "journals/2025/09/2025-09-21.md",
     "journals/2025/11",
     "assets/Тага вертикального блока.mp4",
     "assets/Отведение рук с гантелями.mp4",

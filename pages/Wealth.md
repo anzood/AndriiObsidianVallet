@@ -37,7 +37,3 @@ tags:
 ---
 
 ## 📋 Tasks
-* - [ ] Review monthly credit card statement
-* - [ ] Rebalance portfolio
-* - [ ] Cancel unused streaming subscription
-* - [ ] Move $500 to savings account

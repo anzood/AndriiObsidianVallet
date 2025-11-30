@@ -2,7 +2,7 @@
 tags:
   - note
   - course
-  - video
+  - type/video
 created: 2025-11-30
 up:
   - "[[Growth]]"

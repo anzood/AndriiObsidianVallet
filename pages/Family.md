@@ -25,7 +25,4 @@ tags:
 ---
 
 ## 📋 Tasks
-* - [ ] Call Mom
-* - [ ] Research summer camps for kids
-* - [ ] Book babysitter for Friday
-* - [ ] Fix the bike for [Child Name]
+- [ ] Family test task
