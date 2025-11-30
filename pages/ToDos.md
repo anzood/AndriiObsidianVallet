@@ -1,0 +1,2 @@
+- [ ] Записать комплекс упражнений и делать их https://youtu.be/p1HCnDJ5UWc?si=0lvnlzcInuGR47-Y
+- [ ] 
