@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Admin.md",
+                "file": "templates/daily.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Admin"
+              "title": "daily"
             }
           },
           {
@@ -221,13 +221,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/Admin.md",
+                "file": "templates/daily.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Admin"
+              "title": "Outline of daily"
             }
           }
         ]
@@ -252,12 +252,12 @@
   },
   "active": "fcb5e761244ca062",
   "lastOpenFiles": [
+    "pages/Admin.md",
     "Homepage.md",
     "pages/Fullstack Development Course.md",
     "pages/Play.md",
     "pages/Growth.md",
     "pages/Social.md",
-    "pages/Admin.md",
     "pages/Wealth.md",
     "pages/Career.md",
     "pages/Family.md",
