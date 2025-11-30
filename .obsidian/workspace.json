@@ -207,13 +207,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journals/2025/12/2025-12-02.md",
+                "file": "pages/Semantic HTML tags.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-12-02"
+              "title": "Outline of Semantic HTML tags"
             }
           },
           {
@@ -231,8 +231,7 @@
               "title": "Tags"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -252,7 +251,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c70fef58d2d16ee4",
+  "active": "3fa0bb19b8979e28",
   "lastOpenFiles": [
     "pages/Project ideas.md",
     "pages/Play.md",
