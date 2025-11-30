@@ -1,18 +1,22 @@
-# Homepage
+# 🏠 Home Base
 
-[[Inbox]] - make quick notes here, sort them out later
-## Spheres
+## 🧭 Main Spheres
+
 | [[Health]] | [[Family]] | [[Work]] | [[Income]] | [[Recreation]] | [[Development]] | [[Life]] | [[Friends]] |
 
-All my <span style="color:red;">activities</span> are related to [[Spheres]].
-Рекомендации по [[Питание|питанию]].
+## 📥 Recent Thoughts
+```dataview
+LIST
+FROM "pages"
+SORT file.mtime DESC
+LIMIT 5
+```
 
-[[ToDos]]
+## 🧠 Knowledge Garden
 
-## Useful links
-[Become a Fullstack Developer from Scratch – Full Beginner’s Tutorial](https://www.youtube.com/watch?v=LzMnsfqjzkA&t=3887s)
-https://youtu.be/p1HCnDJ5UWc?si=0lvnlzcInuGR47-Y
+[[Map of Content|Master MOC]] - _Entry point to all knowledge_
 
-## 🎯 Quick Status Overview
+## ⚡ Quick Actions
 
-
+- [[Inbox]]
+- [[Tasks]]

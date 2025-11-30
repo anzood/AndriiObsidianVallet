@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journals/2025/11/2025-11-30.md",
+                "file": "templates/moc.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-11-30"
+              "title": "moc"
             }
           }
         ]
@@ -197,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journals/2025/11/2025-11-30.md",
+                "file": "templates/moc.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-11-30"
+              "title": "Outline of moc"
             }
           }
         ]
@@ -228,14 +228,17 @@
   },
   "active": "fcb5e761244ca062",
   "lastOpenFiles": [
+    "templates/new_note.md",
+    "templates/moc.md",
+    "pages/Map of Content.md",
+    "Homepage.md",
+    "journals/2025/11/2025-11-30.md",
     "pages/Antigravity.md",
     "pages/Budget.md",
-    "Homepage.md",
     "pages/Tasks.md",
     "pages/Work.md",
     "templates/daily.md",
     "journals/2025/12/2025-12-02.md",
-    "journals/2025/11/2025-11-30.md",
     "journals/2025/12",
     "pages/Inbox.md",
     "pages/Spheres.md",
@@ -252,9 +255,6 @@
     "journals/2025/09/2025-09-24.md",
     "journals/2025/09/2025-09-25.md",
     "journals/2025/09/2025-09-26.md",
-    "journals/2025/10/2025-10-06.md",
-    "journals/2025/10/2025-10-08.md",
-    "journals/2025/10/2025-10-10.md",
     "journals/2025/11",
     "assets/Тага вертикального блока.mp4",
     "assets/Отведение рук с гантелями.mp4",
