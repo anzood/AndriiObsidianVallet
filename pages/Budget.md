@@ -1,3 +1,8 @@
+---
+tags:
+  - "#idea"
+  - "#income"
+---
 # **Project Spenc: Lean Budget & AI Receipt Scanner**
 
 ## **1\. Project Overview**

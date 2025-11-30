@@ -2,9 +2,9 @@
 
 [[Inbox]] - make quick notes here, sort them out later
 ## Spheres
-[[Health]]𜹺 [[Family]]𜹺 [[Work]]𜹺 [[Income]]𜹺 [[Recreation]]𜹺 [[Development]]𜹺 [[Life]]𜹺 [[Friends]]
+| [[Health]] | [[Family]] | [[Work]] | [[Income]] | [[Recreation]] | [[Development]] | [[Life]] | [[Friends]] |
 
-All my activities are related to [[Spheres]].
+All my <span style="color:red;">activities</span> are related to [[Spheres]].
 Рекомендации по [[Питание|питанию]].
 
 [[ToDos]]
