@@ -1,7 +1,9 @@
 ---
 tags:
   - sphere/play
+  - type/area
 ---
+
 # 🎨 Play
 
 > [!GOAL] **Current Prime Objective**
@@ -12,27 +14,31 @@ tags:
 ## 🎮 Activities & Hobbies
 
 ### Active (Creation/Doing)
-* **Main Hobby**: (e.g., Photography, Woodworking, Gardening)
-* **Current Project**: [Name of fun project]
+
+- **Main Hobby**: (e.g., Photography, Woodworking, Gardening)
+- **Current Project**: [Name of fun project]
 
 ### Passive (Relaxation)
-* **Gaming**: *Currently playing: [Game Title]*
-* **Watching**: *Currently watching: [TV Series]*
+
+- **Gaming**: _Currently playing: [Game Title]_
+- **Watching**: _Currently watching: [TV Series]_
 
 ---
 
 ## ✈️ Exploration & Travel
-* **Next Big Trip**: [[Trip to Location]] - *Status: Planning*
-* **Weekend Getaway**: [Location Idea]
-* **Micro-Adventure**: (e.g., Try new hiking trail, Visit museum)
+
+- **Next Big Trip**: [[Trip to Location]] - _Status: Planning_
+- **Weekend Getaway**: [Location Idea]
+- **Micro-Adventure**: (e.g., Try new hiking trail, Visit museum)
 
 ---
 
 ## 🗃️ Fun Database
-* [[Media Backlog]] - *List of Movies, Games, and TV shows to consume*
-* [[Travel Bucket List]] - *Places to visit someday*
-* [[Restaurant List]] - *Local spots to try*
-* [[Journal of Joy]] - *Log of favorite memories and photos*
+
+- [[Media Backlog]] - _List of Movies, Games, and TV shows to consume_
+- [[Travel Bucket List]] - _Places to visit someday_
+- [[Restaurant List]] - _Local spots to try_
+- [[Journal of Joy]] - _Log of favorite memories and photos_
 
 ---
 

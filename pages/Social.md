@@ -1,7 +1,9 @@
 ---
 tags:
   - sphere/social
+  - type/area
 ---
+
 # 👥 Social
 
 > [!GOAL] **Current Prime Objective**
@@ -12,29 +14,34 @@ tags:
 ## ⭕ Circles
 
 ### Inner Circle
-* **Close Friends**: [Name], [Name], [Name]
-* *Cadence*: Contact weekly / Hang out monthly.
+
+- **Close Friends**: [Name], [Name], [Name]
+- _Cadence_: Contact weekly / Hang out monthly.
 
 ### Professional Network
-* **Mentors/Key Contacts**: [Name], [Name]
-* *Cadence*: Quarterly coffee/catch-up.
+
+- **Mentors/Key Contacts**: [Name], [Name]
+- _Cadence_: Quarterly coffee/catch-up.
 
 ### Communities
-* **Groups**: [Running Club], [Alumni Assoc], [Volunteer Group]
-* *Role*: Member / Leader / Organizer
+
+- **Groups**: [Running Club], [Alumni Assoc], [Volunteer Group]
+- _Role_: Member / Leader / Organizer
 
 ---
 
 ## 🗃️ Personal CRM
-* [[People Database]] - *Profiles, birthdays, last contact dates, kids' names.*
-* [[Networking Interaction Log]] - *Notes from coffees and meetings.*
-* [[Event Planner]] - *checklists for parties or events I am hosting.*
-* [[Gift Ideas - Friends]] - *Ideas for non-family members.*
+
+- [[People Database]] - _Profiles, birthdays, last contact dates, kids' names._
+- [[Networking Interaction Log]] - _Notes from coffees and meetings._
+- [[Event Planner]] - _checklists for parties or events I am hosting._
+- [[Gift Ideas - Friends]] - _Ideas for non-family members._
 
 ---
 
 ## 📋 Tasks
+
 - Text [Name] to set up lunch
 - RSVP to the wedding invite
-* Send follow-up email to [Networking Contact]
-* Plan venue for birthday gathering
+- Send follow-up email to [Networking Contact]
+- Plan venue for birthday gathering

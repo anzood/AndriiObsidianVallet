@@ -1,7 +1,9 @@
 ---
 tags:
   - sphere/growth
+  - type/area
 ---
+
 # 📚 Growth
 
 > [!GOAL] **Current Prime Objective**
@@ -12,28 +14,32 @@ tags:
 ## 🧠 Active Learning (Inputs)
 
 ### 📖 Reading
-* **Currently Reading**: *[[Title of Book]]*
-* **Queue**: *[Next Book]*, *[Book after that]*
+
+- **Currently Reading**: _[[Title of Book]]_
+- **Queue**: _[Next Book]_, _[Book after that]_
 
 ### 🎓 Courses & Study
-* **Active Course**: *[[Course Name]]*
-* **Platform**: (e.g., Coursera, Udemy)
-* **Progress**: 40% Complete
+
+- **Active Course**: _[[Course Name]]_
+- **Platform**: (e.g., Coursera, Udemy)
+- **Progress**: 40% Complete
 
 ---
 
 ## 🛠️ Skill Acquisition
-* **Technical Skill**: (e.g., Coding, Photography) - *Practice 30m/day*
-* **Soft Skill**: (e.g., Public Speaking, Negotiation)
-* **Habit Focus**: (e.g., Morning Journaling) - *Streak: 12 days*
+
+- **Technical Skill**: (e.g., Coding, Photography) - _Practice 30m/day_
+- **Soft Skill**: (e.g., Public Speaking, Negotiation)
+- **Habit Focus**: (e.g., Morning Journaling) - _Streak: 12 days_
 
 ---
 
 ## 🗃️ Knowledge Bank (PKM)
-* [[Reading List]] - *Books to read and finished summaries*
-* [[Course Notes]] - *Notes from classes and certifications*
-* [[Commonplace Book]] - *Quotes, ideas, and wisdom collected*
-* [[Habit Tracker]] - *Monthly grid for behavior change*
+
+- [[Reading List]] - _Books to read and finished summaries_
+- [[Course Notes]] - _Notes from classes and certifications_
+- [[Commonplace Book]] - _Quotes, ideas, and wisdom collected_
+- [[Habit Tracker]] - _Monthly grid for behavior change_
 
 ---
 

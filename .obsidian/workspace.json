@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journals/2025/12/2025-12-02.md",
+                "file": "pages/Fullstack Development Course.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12-02"
+              "title": "Fullstack Development Course"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/daily.md",
+                "file": "pages/Semantic HTML tags.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,10 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "daily"
+              "title": "Semantic HTML tags"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -251,31 +252,31 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "fcb5e761244ca062",
+  "active": "c70fef58d2d16ee4",
   "lastOpenFiles": [
-    "pages/Health.md",
-    "journals/2025/12/2025-12-02.md",
-    "pages/Career.md",
-    "pages/Tag System.md",
-    "journals/2025/11/2025-11-30.md",
-    "Homepage.md",
-    "pages/Упражнения для мышц шеи.md",
-    "pages/Fullstack Development Course.md",
-    "pages/Tasks.md",
-    "pages/Antigravity system prompt.md",
-    "pages/Semantic HTML tags.md",
     "pages/Project ideas.md",
     "pages/Play.md",
     "pages/Map of Content.md",
-    "templates/daily.md",
-    "pages/Social.md",
-    "pages/Admin.md",
-    "pages/Growth.md",
-    "pages/Wealth.md",
-    "pages/Family.md",
-    "pages/Spheres.md",
     "pages/Inbox.md",
+    "pages/Health.md",
+    "pages/Growth.md",
+    "pages/Fullstack Development Course.md",
+    "pages/Family.md",
+    "pages/Career.md",
     "pages/Budget.md",
+    "pages/Antigravity system prompt.md",
+    "pages/Admin.md",
+    "pages/Tag System.md",
+    "templates/daily.md",
+    "Homepage.md",
+    "journals/2025/12/2025-12-02.md",
+    "journals/2025/11/2025-11-30.md",
+    "pages/Упражнения для мышц шеи.md",
+    "pages/Tasks.md",
+    "pages/Semantic HTML tags.md",
+    "pages/Social.md",
+    "pages/Wealth.md",
+    "pages/Spheres.md",
     "pages/Рецепти.md",
     "pages/Питание.md",
     "templates/new_note.md",

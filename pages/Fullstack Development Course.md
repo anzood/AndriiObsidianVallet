@@ -1,7 +1,7 @@
 ---
 tags:
-  - note
-  - course
+  - status/wip
+  - sphere/growth
   - type/video
 created: 2025-11-30
 up:
@@ -10,7 +10,6 @@ related:
   - 
 lang: en
 ---
-
 # Fullstack Development Course
 
 ## 📝 Content
@@ -20,3 +19,7 @@ Source: [Become a Fullstack Developer from Scratch – Full Beginner’s Tutoria
 ### Notes
 
 -
+
+```
+
+```

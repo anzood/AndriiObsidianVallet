@@ -1,7 +1,9 @@
 ---
 tags:
-  - "#sphere/wealth"
+  - sphere/wealth
+  - type/area
 ---
+
 # 💰 Wealth
 
 > [!GOAL] **Current Prime Objective**
@@ -12,27 +14,31 @@ tags:
 ## 💸 Income Streams
 
 ### Active
-* **Primary Income**: Salary from [[Career]]
-* **Side Venture**: [[Project Name]] (e.g., Consulting, Etsy Shop)
+
+- **Primary Income**: Salary from [[Career]]
+- **Side Venture**: [[Project Name]] (e.g., Consulting, Etsy Shop)
 
 ### Passive
-* **Dividends/Interest**: [Target Amount/Month]
-* **Real Estate**: [Properties]
+
+- **Dividends/Interest**: [Target Amount/Month]
+- **Real Estate**: [Properties]
 
 ---
 
 ## 📈 Strategy & Allocation
-* **Savings Rate Target**: 20% of monthly income
-* **Investment Split**: 70% Index Funds | 20% Bonds | 10% Speculative
-* **Next Purchase**: [Item or Asset]
+
+- **Savings Rate Target**: 20% of monthly income
+- **Investment Split**: 70% Index Funds | 20% Bonds | 10% Speculative
+- **Next Purchase**: [Item or Asset]
 
 ---
 
 ## 🗃️ Financial DB
-* [[Budget & Expense Tracker]] - *Monthly cash flow analysis*
-* [[Net Worth Log]] - *Quarterly balance sheet update*
-* [[Subscription Audit]] - *List of recurring payments to review*
-* [[Tax Documents]] - *Receipts and filing status*
+
+- [[Budget & Expense Tracker]] - _Monthly cash flow analysis_
+- [[Net Worth Log]] - _Quarterly balance sheet update_
+- [[Subscription Audit]] - _List of recurring payments to review_
+- [[Tax Documents]] - _Receipts and filing status_
 
 ---
 

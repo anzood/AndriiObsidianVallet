@@ -32,7 +32,14 @@
 
   * `#type/project` (An active outcome with a deadline)
   * `#type/area` (An ongoing responsibility, e.g., Car Maintenance)
-  * `#type/resource` (Books, Courses, Videos, Articles)
+  * `#type/resource` (General resource, if it doesn't fit any other type)
+  * `#type/note` (Note)
+  * `#type/book` (Book)
+  * `#type/course` (Course)
+  * `#type/video` (Video)
+  * `#type/article` (Article)
+  * `#type/podcast` (Podcast)
+  * `#type/post` (Post)
   * `#type/meeting` (Meeting notes)
   * `#type/person` (CRM profile)
   * `#type/journal` (Daily/Weekly notes)
@@ -96,3 +103,22 @@ WHERE contains(file.tags, "#status/wip")
 LIST
 FROM #python
 ```
+
+## Idea to  concider
+### The "Resonance" Dimension (Quality)
+
+_The filter for "Signal vs. Noise"._
+
+When you revisit your vault in 2 years, Status tells you if you finished reading the book. `Resonance` tells you if the book changed your life.
+
+- **Why use it:** To instantly surface your "Gold Standard" material.
+- **The Tags:**
+  - `#resonance/gold` (Top 1% - The foundational concepts you live by)
+  - `#resonance/high` (Great, worth re-reading)
+  - `#resonance/low` (Reference only, dry facts)
+
+- **Alternative (Frontmatter):** Instead of tags, many users use a key in the YAML frontmatter: rating: ⭐⭐⭐⭐⭐
+
+**Example:**
+
+You search for `tag:#topic/investing AND tag:#resonance/gold`. Result: You get the 3 core principles that actually make you money, filtering out the 50 news articles you clipped.
