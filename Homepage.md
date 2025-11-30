@@ -1,5 +1,15 @@
 # Homepage
-*Central hub for personal knowledge management, sphere-based life organization, and daily workflows.*
+
+[[Inbox]] - make quick notes here, sort them out later
+## Spheres
+- [[Health]]
+- [[Family]]
+* [[Work]]
+* [[Income]]
+* [[Recreation]]
+* [[Development]]
+* [[Life]]
+* [[Friends]]
 
 All my activities are related to [[Spheres]].
 Рекомендации по [[Питание|питанию]].

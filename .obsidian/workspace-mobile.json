@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Antigravity.md",
+                "file": "Homepage.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Antigravity"
+              "title": "Homepage"
             }
           }
         ],
@@ -217,6 +217,19 @@
   },
   "active": "b3cc89bab55bad0a",
   "lastOpenFiles": [
+    "pages/Inbox.md",
+    "Homepage.md",
+    "pages/Antigravity.md",
+    "pages/Tasks.md",
+    "pages/Family.md",
+    "pages/Friends.md",
+    "pages/Recreation.md",
+    "pages/Development.md",
+    "pages/Income.md",
+    "pages/Work.md",
+    "pages/Life.md",
+    "pages/Health.md",
+    "journals/2025/11/2025-11-30.md",
     "pages/Питание.md",
     "journals/2025/11/2025-11-26.md",
     "journals/2025/11/2025-11-21.md",
@@ -226,7 +239,6 @@
     "journals/2025/11/2025-11-19.md",
     "assets/Жим гантелей на скамейке.mp4",
     "pages/ToDos.md",
-    "Homepage.md",
     "pages/Рецепты.md",
     "pages/Spheres.md",
     "assets/Скручивание с диском.mp4",
@@ -240,18 +252,6 @@
     "assets/Сгибание ног в тренажере.mp4",
     "journals/2025/11/2025-11-03.md",
     "journals/2025/10/2025-10-29.md",
-    "journals/2025/10/2025-10-17.md",
-    "journals/2025/10/2025-10-13.md",
-    "journals/2025/10/2025-10-15.md",
-    "journals/2025/10/2025-10-10.md",
-    "journals/2025/10/2025-10-08.md",
-    "journals/2025/10/2025-10-06.md",
-    "journals/2025/09/2025-09-22.md",
-    "journals/2025/09/2025-09-25.md",
-    "journals/2025/09/2025-09-24.md",
-    "journals/2025/09/2025-09-23.md",
-    "journals/2025/09/2025-09-20.md",
-    "templates/gym day 1.md",
-    "Test.md"
+    "journals/2025/10/2025-10-17.md"
   ]
 }
