@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
-                "mode": "preview",
+                "file": "journals/2025/11/2025-11-30.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "2025-11-30"
             }
           }
         ],
@@ -217,9 +217,11 @@
   },
   "active": "b3cc89bab55bad0a",
   "lastOpenFiles": [
+    "journals/2025/12/2025-12-02.md",
+    "journals/2025/11/2025-11-30.md",
+    "Homepage.md",
     "pages/Work.md",
     "pages/Spheres.md",
-    "Homepage.md",
     "pages/Inbox.md",
     "pages/Antigravity.md",
     "pages/Tasks.md",
@@ -230,7 +232,6 @@
     "pages/Income.md",
     "pages/Life.md",
     "pages/Health.md",
-    "journals/2025/11/2025-11-30.md",
     "pages/Питание.md",
     "journals/2025/11/2025-11-26.md",
     "journals/2025/11/2025-11-21.md",
@@ -251,7 +252,6 @@
     "assets/Гиперэкстензия.mp4",
     "assets/Сгибание ног в тренажере.mp4",
     "journals/2025/11/2025-11-03.md",
-    "journals/2025/10/2025-10-29.md",
-    "journals/2025/10/2025-10-17.md"
+    "journals/2025/10/2025-10-29.md"
   ]
 }

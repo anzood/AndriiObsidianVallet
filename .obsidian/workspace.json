@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Antigravity.md",
+                "file": "journals/2025/11/2025-11-30.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Antigravity"
+              "title": "2025-11-30"
             }
           }
         ]
@@ -197,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/Antigravity.md",
+                "file": "journals/2025/11/2025-11-30.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Antigravity"
+              "title": "Outline of 2025-11-30"
             }
           }
         ]
@@ -228,6 +228,7 @@
   },
   "active": "fcb5e761244ca062",
   "lastOpenFiles": [
+    "pages/Antigravity.md",
     "pages/Budget.md",
     "Homepage.md",
     "pages/Tasks.md",
@@ -254,7 +255,6 @@
     "journals/2025/10/2025-10-06.md",
     "journals/2025/10/2025-10-08.md",
     "journals/2025/10/2025-10-10.md",
-    "journals/2025/10/2025-10-13.md",
     "journals/2025/11",
     "assets/Тага вертикального блока.mp4",
     "assets/Отведение рук с гантелями.mp4",
