@@ -1,31 +1,48 @@
 ---
 tags:
-  - journal
+  - type/journal
 ---
+
 # Journal <% tp.file.title %>
 
 ## Tasks
-```dataview
-TASK
-WHERE !completed
-AND (
-    (due != null AND due <= date(<% tp.file.title %>)) OR
-    (scheduled != null AND scheduled <= date(<% tp.file.title %>)) OR
-    (start != null AND start <= date(<% tp.file.title %>))
-)
-FLATTEN choice(length(tags) = 0, list("No Tag"), tags) AS T
-GROUP BY T
-SORT default(due, default(scheduled, start)) ASC
+
+```dataviewjs
+const dateStr = "<% tp.file.title %>";
+const targetDate = dv.date(dateStr);
+
+// Fetch tasks once
+const tasks = dv.pages().file.tasks.where(t =>
+    !t.completed && (
+        (t.due && t.due <= targetDate) ||
+        (t.scheduled && t.scheduled <= targetDate) ||
+        (t.start && t.start <= targetDate)
+    )
+);
+
+if (tasks.length === 0) {
+    dv.paragraph("No tasks for today! 🎉");
+} else {
+    // Group by tags
+    for (let group of tasks.groupBy(t => t.tags.length > 0 ? t.tags[0] : "No Tag")) {
+        dv.header(3, group.key);
+        dv.taskList(group.rows, false);
+    }
+}
 ```
+
 ## 📝 Notes
+
 <% tp.file.cursor() %>
 
 ## 🍲 Menu
 
 ## 🔄 Progress on Goals
-*Brief reflection on goal progress*
+
+_Brief reflection on goal progress_
 
 ## 💭 Daily Reflection
-*What went well? What could be improved?*
+
+_What went well? What could be improved?_
 
 ---

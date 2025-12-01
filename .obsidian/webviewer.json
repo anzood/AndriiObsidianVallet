@@ -1,5 +1,6 @@
 {
-  "openExternalURLs": true,
+  "openExternalURLs": false,
   "enableAdblocking": true,
-  "searchEngine": "google"
+  "searchEngine": "google",
+  "homepage": ""
 }

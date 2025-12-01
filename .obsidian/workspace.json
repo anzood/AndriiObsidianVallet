@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Spheres.md",
+                "file": "Homepage.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Spheres"
+              "title": "Homepage"
+            }
+          },
+          {
+            "id": "d3679711eeed5b02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/Tag System.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Tag System"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#video",
+                "query": "tag:#status/idea",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +109,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -182,13 +208,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/Spheres.md",
+                "file": "pages/Tag System.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Spheres"
+              "title": "Outline of Tag System"
             }
           },
           {
@@ -206,7 +232,8 @@
               "title": "Tags"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -227,16 +254,27 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "fcb5e761244ca062",
+  "active": "e035239e6ef0bb3c",
   "lastOpenFiles": [
-    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "pages/Untitled.md",
+    "pages/Tag System.md",
+    "Homepage.md",
+    "templates/new_note.md",
+    "pages/Упражнения для мышц шеи.md",
+    "pages/Рецепти.md",
+    "pages/Питание.md",
+    "journals/2025/12/2025-12-02.md",
+    "pages/Tasks.md",
+    "templates/daily.md",
+    "journals/2025/12/2025-12-01.md",
     "pages/Spheres.md",
+    "pages/Методики расширения сознания.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
     "copilot/copilot-custom-prompts/Simplify.md",
     "copilot/copilot-custom-prompts/Generate glossary.md",
     "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot/copilot-custom-prompts/Explain like I am 5.md",
     "copilot/copilot-custom-prompts/Emojify.md",
-    "pages/Tag System.md",
     "pages/Fullstack Development Course.md",
     "copilot/copilot-conversations/Hi,_how_can_you_help_me@20251201_155321.md",
     "copilot/copilot-conversations",
@@ -245,19 +283,8 @@
     "copilot/copilot-custom-prompts/Generate table of contents.md",
     "copilot/copilot-custom-prompts/Make longer.md",
     "copilot/copilot-custom-prompts/Make shorter.md",
-    "copilot/copilot-custom-prompts/Summarize.md",
-    "copilot/copilot-custom-prompts/Translate to Chinese.md",
     "copilot/copilot-custom-prompts",
     "copilot",
-    "Homepage.md",
-    "journals/2025/12/2025-12-01.md",
-    "pages/Semantic HTML tags.md",
-    "pages/Project ideas.md",
-    "pages/Play.md",
-    "pages/Map of Content.md",
-    "pages/Inbox.md",
-    "pages/Health.md",
-    "pages/Growth.md",
     "journals/2025/12",
     "journals/2025/11",
     "assets/Тага вертикального блока.mp4",

@@ -1,5 +1,6 @@
 {
   "accentColor": "#9dccd2",
   "cssTheme": "Border",
-  "theme": "system"
+  "theme": "system",
+  "translucency": false
 }

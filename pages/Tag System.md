@@ -73,7 +73,7 @@
 
 **Scenario 1: You are taking a Python Course.**
 
-> Tags: `#sphere/growth` `#type/resource` `#status/wip` `#python`
+> Tags: `#sphere/growth` `#type/course` `#status/wip` `#python`
 
 **Scenario 2: You are planning a Vacation to Italy.**
 
