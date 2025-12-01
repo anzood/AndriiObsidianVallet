@@ -13,7 +13,7 @@ LIMIT 5
 ```
 
 ## 🧠 Knowledge Garden
-
+[[Tag System]] - _The tag system_
 [[Map of Content|Master MOC]] - _Entry point to all knowledge_
 
 ## ⚡ Quick Actions

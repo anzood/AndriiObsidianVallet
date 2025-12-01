@@ -1,8 +1,10 @@
 {
-  "Components@@tab-autohide": true,
+  "Components@@tab-autohide": false,
   "Components@@Ribbon-autohide": true,
-  "Components@@vault-profile-autohide": true,
+  "Components@@vault-profile-autohide": false,
   "Components@@folder-font-bold": true,
   "Components@@colorful-folder": true,
-  "Components@@outline-enhanced": true
+  "Components@@outline-enhanced": true,
+  "Components@@status-bar-autohide": false,
+  "Components@@nav-header-autohide": false
 }

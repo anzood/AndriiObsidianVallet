@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Fullstack Development Course.md",
+                "file": "pages/Spheres.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Fullstack Development Course"
-            }
-          },
-          {
-            "id": "c70fef58d2d16ee4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/Semantic HTML tags.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Semantic HTML tags"
+              "title": "Spheres"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,13 +182,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/Semantic HTML tags.md",
+                "file": "pages/Spheres.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Semantic HTML tags"
+              "title": "Outline of Spheres"
             }
           },
           {
@@ -248,37 +223,41 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "templater-obsidian:Templater": false,
       "github-sync:Sync with Remote": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "3fa0bb19b8979e28",
+  "active": "fcb5e761244ca062",
   "lastOpenFiles": [
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "pages/Spheres.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "pages/Tag System.md",
+    "pages/Fullstack Development Course.md",
+    "copilot/copilot-conversations/Hi,_how_can_you_help_me@20251201_155321.md",
+    "copilot/copilot-conversations",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts",
+    "copilot",
+    "Homepage.md",
+    "journals/2025/12/2025-12-01.md",
+    "pages/Semantic HTML tags.md",
     "pages/Project ideas.md",
     "pages/Play.md",
     "pages/Map of Content.md",
     "pages/Inbox.md",
     "pages/Health.md",
     "pages/Growth.md",
-    "pages/Fullstack Development Course.md",
-    "pages/Family.md",
-    "pages/Career.md",
-    "pages/Budget.md",
-    "pages/Antigravity system prompt.md",
-    "pages/Admin.md",
-    "pages/Tag System.md",
-    "templates/daily.md",
-    "Homepage.md",
-    "journals/2025/12/2025-12-02.md",
-    "journals/2025/11/2025-11-30.md",
-    "pages/Упражнения для мышц шеи.md",
-    "pages/Tasks.md",
-    "pages/Semantic HTML tags.md",
-    "pages/Social.md",
-    "pages/Wealth.md",
-    "pages/Spheres.md",
-    "pages/Рецепти.md",
-    "pages/Питание.md",
-    "templates/new_note.md",
     "journals/2025/12",
     "journals/2025/11",
     "assets/Тага вертикального блока.mp4",
@@ -286,9 +265,6 @@
     "assets/Сгибание стопы.mp4",
     "assets/Згибанте стопы.mp4",
     "assets/Гиперэкстензия.mp4",
-    "assets/Сгибание ног в тренажере.mp4",
-    "assets/Жим гантелей на скамейке.mp4",
-    "assets/Разгибание рук на блоке.mp4",
     "assets/0E710052-93EE-4CF3-8A89-D7951BE11475_1_102_o.jpeg",
     "assets/420F73D1-6645-4F95-9A78-45C24E6374BF_1_102_o.jpeg",
     "assets/C388405B-6BC1-4D06-9976-4994E766C456_1_102_o.jpeg",
