@@ -2,11 +2,8 @@
 tags:
   - type/journal
 ---
-
 # Journal <% tp.file.title %>
-
 ## Tasks
-
 ```dataviewjs
 const dateStr = "<% tp.file.title %>";
 const targetDate = dv.date(dateStr);
@@ -30,19 +27,12 @@ if (tasks.length === 0) {
     }
 }
 ```
-
 ## 📝 Notes
-
 <% tp.file.cursor() %>
-
 ## 🍲 Menu
-
 ## 🔄 Progress on Goals
-
 _Brief reflection on goal progress_
-
 ## 💭 Daily Reflection
-
 _What went well? What could be improved?_
 
 ---

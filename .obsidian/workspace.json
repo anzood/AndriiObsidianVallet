@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
+                "file": "journals/2025/12/2025-12-01.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "2025-12-01"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Tag System.md",
+                "file": "templates/daily.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tag System"
+              "title": "daily"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,8 +108,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -208,13 +206,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/Tag System.md",
+                "file": "journals/2025/12/2025-12-01.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tag System"
+              "title": "Outline of 2025-12-01"
             }
           },
           {
@@ -254,19 +252,20 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "e035239e6ef0bb3c",
+  "active": "fcb5e761244ca062",
   "lastOpenFiles": [
-    "pages/Untitled.md",
-    "pages/Tag System.md",
+    "templates/daily.md",
+    "journals/2025/12/2025-12-01.md",
+    "pages/Map of Content.md",
     "Homepage.md",
     "templates/new_note.md",
+    "pages/Tag System.md",
+    "pages/Untitled.md",
     "pages/Упражнения для мышц шеи.md",
     "pages/Рецепти.md",
     "pages/Питание.md",
     "journals/2025/12/2025-12-02.md",
     "pages/Tasks.md",
-    "templates/daily.md",
-    "journals/2025/12/2025-12-01.md",
     "pages/Spheres.md",
     "pages/Методики расширения сознания.md",
     "copilot/copilot-custom-prompts/Remove URLs.md",
@@ -282,7 +281,6 @@
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
     "copilot/copilot-custom-prompts/Generate table of contents.md",
     "copilot/copilot-custom-prompts/Make longer.md",
-    "copilot/copilot-custom-prompts/Make shorter.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "journals/2025/12",
