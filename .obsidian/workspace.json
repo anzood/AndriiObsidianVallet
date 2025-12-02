@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Питание.md",
+                "file": "pages/HEWSY.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Питание"
+              "title": "HEWSY"
             }
           }
         ]
@@ -182,13 +182,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/Питание.md",
+                "file": "pages/HEWSY.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Питание"
+              "title": "Outline of HEWSY"
             }
           },
           {
@@ -228,13 +228,15 @@
   },
   "active": "fcb5e761244ca062",
   "lastOpenFiles": [
+    "pages/Competitors.md",
+    "pages/HEWSY.md",
+    "Homepage.md",
+    "pages/Питание.md",
     "pages/Map of Content.md",
     "pages/Vault User Guide.md",
     "pages/Inbox.md",
-    "Homepage.md",
     "pages/Tag System.md",
     "journals/2025/12/2025-12-02.md",
-    "pages/HEWSY.md",
     "pages/Health.md",
     "pages/Svelte.md",
     "templates/daily.md",
@@ -244,7 +246,6 @@
     "pages/Spheres.md",
     "drawings/Drawing 2025-12-02 17.35.29.excalidraw.md",
     "Excalidraw",
-    "pages/Питание.md",
     "pages/Career.md",
     "templates/new_note.md",
     "pages/Упражнения для мышц шеи.md",
@@ -254,7 +255,6 @@
     "copilot/copilot-custom-prompts/Remove URLs.md",
     "copilot/copilot-custom-prompts/Simplify.md",
     "copilot/copilot-custom-prompts/Generate glossary.md",
-    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot/copilot-conversations",
     "copilot/copilot-custom-prompts",
     "copilot",
