@@ -53,6 +53,7 @@
   * `#status/wip` (Work In Progress)
   * `#status/waiting` (Blocked by someone else)
   * `#status/done` (Completed/Archived)
+  * `#status/raw` (Not processed data)
 
 -----
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journals/2025/12/2025-12-02.md",
+                "file": "Homepage.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12-02"
+              "title": "Homepage"
             }
           },
           {
-            "id": "d3679711eeed5b02",
+            "id": "046d0e415104c92e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journals/2025/12/2025-12-02.md",
+                "file": "templates/daily.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12-02"
+              "title": "daily"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -252,19 +251,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d3679711eeed5b02",
+  "active": "fcb5e761244ca062",
   "lastOpenFiles": [
-    "pages/Career.md",
     "journals/2025/12/2025-12-02.md",
     "Homepage.md",
     "templates/daily.md",
+    "journals/2025/12/2025-12-03.md",
+    "pages/Career.md",
+    "journals/2025/12/2025-12-01.md",
+    "pages/Tag System.md",
     "pages/Health.md",
     "pages/Spheres.md",
-    "journals/2025/12/2025-12-03.md",
-    "journals/2025/12/2025-12-01.md",
     "pages/Map of Content.md",
     "templates/new_note.md",
-    "pages/Tag System.md",
     "pages/Untitled.md",
     "pages/Упражнения для мышц шеи.md",
     "pages/Рецепти.md",

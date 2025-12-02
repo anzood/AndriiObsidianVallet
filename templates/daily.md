@@ -1,6 +1,7 @@
 ---
 tags:
   - type/journal
+  - status/raw
 ---
 # Journal <% tp.file.title %>
 ## Tasks
