@@ -2,6 +2,9 @@
 tags:
   - sphere/wealth
   - type/area
+up:
+  - "[[Spheres]]"
+  - "[[Homepage]]"
 ---
 
 # 💰 Wealth
@@ -16,7 +19,7 @@ tags:
 ### Active
 
 - **Primary Income**: Salary from [[Career]]
-- **Side Venture**: [[Project Name]] (e.g., Consulting, Etsy Shop)
+- **Side Venture**: [[HEWSY]] - the health eating app
 
 ### Passive
 

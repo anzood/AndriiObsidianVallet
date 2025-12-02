@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
+                "file": "pages/Svelte.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "Svelte"
+            }
+          },
+          {
+            "id": "c8db2fec6dff6e74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "journals/2025/12/2025-12-01.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-01"
             }
           },
           {
@@ -37,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/daily.md",
+                "file": "pages/HEWSY.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,10 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "daily"
+              "title": "HEWSY"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -206,13 +231,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journals/2025/12/2025-12-01.md",
+                "file": "pages/HEWSY.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-12-01"
+              "title": "Outline of HEWSY"
             }
           },
           {
@@ -230,8 +255,7 @@
               "title": "Tags"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -251,23 +275,27 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "fcb5e761244ca062",
+  "active": "046d0e415104c92e",
   "lastOpenFiles": [
-    "journals/2025/12/2025-12-02.md",
     "Homepage.md",
     "templates/daily.md",
+    "drawings/Drawing 2025-12-02 17.35.29.excalidraw.md",
+    "journals/2025/12/2025-12-01.md",
+    "Excalidraw",
+    "journals/2025/12/2025-12-02.md",
+    "pages/Питание.md",
+    "pages/Health.md",
+    "pages/Svelte.md",
+    "pages/Map of Content.md",
+    "pages/Wealth.md",
+    "pages/Spheres.md",
+    "pages/HEWSY.md",
     "journals/2025/12/2025-12-03.md",
     "pages/Career.md",
-    "journals/2025/12/2025-12-01.md",
     "pages/Tag System.md",
-    "pages/Health.md",
-    "pages/Spheres.md",
-    "pages/Map of Content.md",
     "templates/new_note.md",
-    "pages/Untitled.md",
     "pages/Упражнения для мышц шеи.md",
     "pages/Рецепти.md",
-    "pages/Питание.md",
     "pages/Tasks.md",
     "pages/Методики расширения сознания.md",
     "copilot/copilot-custom-prompts/Remove URLs.md",
@@ -276,10 +304,7 @@
     "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot/copilot-custom-prompts/Explain like I am 5.md",
     "copilot/copilot-custom-prompts/Emojify.md",
-    "pages/Fullstack Development Course.md",
-    "copilot/copilot-conversations/Hi,_how_can_you_help_me@20251201_155321.md",
     "copilot/copilot-conversations",
-    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "journals/2025/12",
@@ -288,7 +313,6 @@
     "assets/Отведение рук с гантелями.mp4",
     "assets/Сгибание стопы.mp4",
     "assets/Згибанте стопы.mp4",
-    "assets/Гиперэкстензия.mp4",
     "assets/0E710052-93EE-4CF3-8A89-D7951BE11475_1_102_o.jpeg",
     "assets/420F73D1-6645-4F95-9A78-45C24E6374BF_1_102_o.jpeg",
     "assets/C388405B-6BC1-4D06-9976-4994E766C456_1_102_o.jpeg",

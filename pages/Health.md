@@ -22,6 +22,11 @@ up:
 - [ ] Ввести в практику эти [упражнения](https://youtu.be/lrhDL2sLd28?si=Qu4-9JwJ44Dvjs_t) #sphere/health
 - [ ] Записать комплекс упражнений и делать их [link](https://youtu.be/p1HCnDJ5UWc?si=0lvnlzcInuGR47-Y) #sphere/health
 
+## 📂 Projects
+
 ## ✅ Finished tasks
 - [x] Записаться к дерматологу⏳ 2025-12-01 #sphere/health ✅ 2025-12-01
 - [x] Записаться к офтальмологу 📅 2025-12-01 #sphere/health ✅ 2025-12-01
+
+## 📚 References
+[[Питание]]
