@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Vault User Guide.md",
+                "file": "pages/Питание.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -24,11 +24,11 @@
                   "showSearch": false,
                   "searchQuery": "",
                   "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                  "unlinkedCollapsed": false
                 }
               },
               "icon": "lucide-file",
-              "title": "Vault User Guide"
+              "title": "Питание"
             }
           }
         ]
@@ -182,13 +182,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/Vault User Guide.md",
+                "file": "pages/Питание.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Vault User Guide"
+              "title": "Outline of Питание"
             }
           },
           {
@@ -228,10 +228,12 @@
   },
   "active": "fcb5e761244ca062",
   "lastOpenFiles": [
-    "pages/Tag System.md",
+    "pages/Map of Content.md",
     "pages/Vault User Guide.md",
-    "journals/2025/12/2025-12-02.md",
+    "pages/Inbox.md",
     "Homepage.md",
+    "pages/Tag System.md",
+    "journals/2025/12/2025-12-02.md",
     "pages/HEWSY.md",
     "pages/Health.md",
     "pages/Svelte.md",
@@ -243,7 +245,6 @@
     "drawings/Drawing 2025-12-02 17.35.29.excalidraw.md",
     "Excalidraw",
     "pages/Питание.md",
-    "pages/Map of Content.md",
     "pages/Career.md",
     "templates/new_note.md",
     "pages/Упражнения для мышц шеи.md",
@@ -254,7 +255,6 @@
     "copilot/copilot-custom-prompts/Simplify.md",
     "copilot/copilot-custom-prompts/Generate glossary.md",
     "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
-    "copilot/copilot-custom-prompts/Explain like I am 5.md",
     "copilot/copilot-conversations",
     "copilot/copilot-custom-prompts",
     "copilot",

@@ -3,6 +3,8 @@ tags:
   - type/article
   - pkm
 lang: en
+up:
+  - "[[Homepage]]"
 ---
 # Vault User Guide
 
