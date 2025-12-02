@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/HEWSY.md",
+                "file": "pages/Wealth.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "HEWSY"
+              "title": "Wealth"
             }
           }
         ],
@@ -231,13 +231,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/HEWSY.md",
+                "file": "pages/Wealth.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of HEWSY"
+              "title": "Outline of Wealth"
             }
           },
           {
@@ -277,19 +277,19 @@
   },
   "active": "046d0e415104c92e",
   "lastOpenFiles": [
+    "pages/Spheres.md",
+    "pages/Health.md",
+    "journals/2025/12/2025-12-02.md",
+    "pages/HEWSY.md",
     "Homepage.md",
     "templates/daily.md",
     "drawings/Drawing 2025-12-02 17.35.29.excalidraw.md",
     "journals/2025/12/2025-12-01.md",
     "Excalidraw",
-    "journals/2025/12/2025-12-02.md",
     "pages/Питание.md",
-    "pages/Health.md",
     "pages/Svelte.md",
     "pages/Map of Content.md",
     "pages/Wealth.md",
-    "pages/Spheres.md",
-    "pages/HEWSY.md",
     "journals/2025/12/2025-12-03.md",
     "pages/Career.md",
     "pages/Tag System.md",

@@ -46,3 +46,5 @@ up:
 ---
 
 ## 📋 Tasks
+
+## 📂 Projects
