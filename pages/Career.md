@@ -4,6 +4,9 @@ aliases:
 tags:
   - sphere/career
   - type/area
+up:
+  - "[[Spheres]]"
+  - "[[Homepage]]"
 ---
 
 # 💼 Career
@@ -41,4 +44,5 @@ tags:
 ## 📋 Tasks
 
 - [ ] Make general metrics for Alex ⏳ 2025-12-02 #sphere/career
+- [ ] Write Consuello that I've got the payment 📅 2025-12-02 #sphere/career 
 - [x] Task to test completion ✅ 2025-11-30

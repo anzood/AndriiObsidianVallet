@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journals/2025/12/2025-12-01.md",
+                "file": "journals/2025/12/2025-12-02.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12-01"
+              "title": "2025-12-02"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/daily.md",
+                "file": "journals/2025/12/2025-12-02.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,10 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "daily"
+              "title": "2025-12-02"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -248,25 +249,27 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "templater-obsidian:Templater": false,
       "github-sync:Sync with Remote": false,
-      "periodic-notes:Open today": false,
-      "copilot:Open Copilot Chat": false
+      "periodic-notes:Open today": false
     }
   },
-  "active": "fcb5e761244ca062",
+  "active": "d3679711eeed5b02",
   "lastOpenFiles": [
+    "pages/Career.md",
+    "journals/2025/12/2025-12-02.md",
+    "Homepage.md",
     "templates/daily.md",
+    "pages/Health.md",
+    "pages/Spheres.md",
+    "journals/2025/12/2025-12-03.md",
     "journals/2025/12/2025-12-01.md",
     "pages/Map of Content.md",
-    "Homepage.md",
     "templates/new_note.md",
     "pages/Tag System.md",
     "pages/Untitled.md",
     "pages/Упражнения для мышц шеи.md",
     "pages/Рецепти.md",
     "pages/Питание.md",
-    "journals/2025/12/2025-12-02.md",
     "pages/Tasks.md",
-    "pages/Spheres.md",
     "pages/Методики расширения сознания.md",
     "copilot/copilot-custom-prompts/Remove URLs.md",
     "copilot/copilot-custom-prompts/Simplify.md",
@@ -278,9 +281,6 @@
     "copilot/copilot-conversations/Hi,_how_can_you_help_me@20251201_155321.md",
     "copilot/copilot-conversations",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot/copilot-custom-prompts/Generate table of contents.md",
-    "copilot/copilot-custom-prompts/Make longer.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "journals/2025/12",
