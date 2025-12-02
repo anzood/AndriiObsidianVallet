@@ -2,6 +2,14 @@
 
 ## 🧭 Main Spheres
 | [[Health]] | [[Family]] | [[Career]] | [[Wealth]] | [[Play]] | [[Growth]] | [[Admin]] | [[Social]] |
+## 📂 Active projects
+```dataview
+LIST file.ctime
+FROM "pages"
+WHERE contains(file.tags, "#type/project")
+  AND contains(file.tags, "#status/wip")
+SORT file.ctime DESC
+```
 ## 📝 Daily notes to process
 ```dataviewjs
 function toLocalDate(d) {

@@ -2,6 +2,7 @@
 tags:
   - type/project
   - sphere/wealth
+  - status/wip
 created: 2025-12-02 15:17
 up:
   - "[[Homepage]]"
