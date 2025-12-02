@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
+                "file": "pages/Vault User Guide.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,55 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Homepage"
-            }
-          },
-          {
-            "id": "c8db2fec6dff6e74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/HEWSY.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "HEWSY"
-            }
-          },
-          {
-            "id": "046d0e415104c92e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/Health.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Health"
+              "title": "Vault User Guide"
             }
           }
         ]
@@ -230,13 +182,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homepage.md",
+                "file": "pages/Vault User Guide.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Homepage"
+              "title": "Outline of Vault User Guide"
             }
           },
           {
@@ -276,13 +228,15 @@
   },
   "active": "fcb5e761244ca062",
   "lastOpenFiles": [
-    "pages/Svelte.md",
-    "pages/HEWSY.md",
-    "Homepage.md",
-    "templates/daily.md",
+    "pages/Tag System.md",
+    "pages/Vault User Guide.md",
     "journals/2025/12/2025-12-02.md",
-    "journals/2025/12/2025-12-01.md",
+    "Homepage.md",
+    "pages/HEWSY.md",
     "pages/Health.md",
+    "pages/Svelte.md",
+    "templates/daily.md",
+    "journals/2025/12/2025-12-01.md",
     "journals/2025/12/2025-12-03.md",
     "pages/Wealth.md",
     "pages/Spheres.md",
@@ -291,7 +245,6 @@
     "pages/Питание.md",
     "pages/Map of Content.md",
     "pages/Career.md",
-    "pages/Tag System.md",
     "templates/new_note.md",
     "pages/Упражнения для мышц шеи.md",
     "pages/Рецепти.md",
@@ -302,7 +255,6 @@
     "copilot/copilot-custom-prompts/Generate glossary.md",
     "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot/copilot-custom-prompts/Explain like I am 5.md",
-    "copilot/copilot-custom-prompts/Emojify.md",
     "copilot/copilot-conversations",
     "copilot/copilot-custom-prompts",
     "copilot",

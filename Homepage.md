@@ -96,6 +96,7 @@ LIMIT 5
 ## 🧠 Knowledge Garden
 [[Map of Content|Master MOC]] - _Entry point to all knowledge_
 [[Tag System]] - _The tag system_
+[[Vault User Guide]]
 
 ## ⚡ Quick Actions
 - [[Inbox]]

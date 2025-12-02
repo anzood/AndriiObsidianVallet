@@ -25,6 +25,9 @@ Men who want/have to cook by themselves, eat health food and control their weigh
 	- Initialize SvelteKit
 	- Setup Tailwind & Shadcn
 	- Configure Prisma & Supabase
+- **UI skeleton**
+	- List of pages
+	- Routes
 - **Database Implementation**
 	- Create User & Profile models
 	- Create Master Data (FoodGroups, Ingredients)
