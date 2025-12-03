@@ -66,7 +66,6 @@ lang: en
 - **Free Tier**: Basic slot planning, standard database access.
 - **Premium ($X/mo)**: Unlimited history, advanced constraints (macros), auto-shopping lists.
 - **Immediate Admin**:
-  - [x] Buy Domain Name.
   - [ ] Set up landing page for waitlist. #sphere/wealth
 
 ## 🛤️ Roadmap & Tasks
@@ -74,8 +73,8 @@ lang: en
 ### Phase 1: The Engine (MVP Core)
 
 - **Project Setup**
-  - Initialize SvelteKit
-  - Setup Tailwind & Shadcn
+  - Initialize SvelteKit ✅
+  - Setup Tailwind & Shadcn 🛠️
   - Configure Prisma & Supabase
 - **UI skeleton**
   - List of pages

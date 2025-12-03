@@ -15,7 +15,14 @@ up:
 > Write your main focus here (e.g., "Secure Senior Promotion" or "Deliver Q4 Project ahead of schedule").
 
 ---
+## 📋 Tasks
 
+- [ ] Make general metrics for Alex ⏳ 2025-12-02 #sphere/career
+- [ ] Check Chris' request 📅 2025-12-04 #sphere/career 
+## ✅ Finished tasks
+- [x] Write Consuello that I've got the payment 📅 2025-12-02 #sphere/career ✅ 2025-12-02
+- [x] Task to test completion ✅ 2025-11-30
+---
 ## 🚀 Active Projects (Output)
 
 - **Priority 1**: [[Project Alpha]] - _Status: In Progress_
@@ -40,9 +47,3 @@ up:
 - [[Reference Materials]] - _Cheatsheets, SOPs, Company Wiki_
 
 ---
-
-## 📋 Tasks
-
-- [ ] Make general metrics for Alex ⏳ 2025-12-02 #sphere/career
-- [x] Write Consuello that I've got the payment 📅 2025-12-02 #sphere/career ✅ 2025-12-02
-- [x] Task to test completion ✅ 2025-11-30
