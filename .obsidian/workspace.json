@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Career.md",
-                "mode": "source",
+                "file": "Homepage.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Career"
+              "title": "Homepage"
             }
           }
         ]
@@ -182,13 +182,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/Career.md",
+                "file": "Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Career"
+              "title": "Outline of Homepage"
             }
           },
           {
@@ -229,11 +229,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "journals/2025/12/2025-12-04.md",
+    "journals/2025/12/2025-12-03.md",
+    "pages/Career.md",
     "Homepage.md",
     "pages/HEWSY.md",
-    "pages/Career.md",
     "pages/Health.md",
-    "journals/2025/12/2025-12-03.md",
     "pages/Competitors.md",
     "pages/Питание.md",
     "pages/Map of Content.md",
@@ -255,7 +256,6 @@
     "pages/Методики расширения сознания.md",
     "copilot/copilot-custom-prompts/Remove URLs.md",
     "copilot/copilot-custom-prompts/Simplify.md",
-    "copilot/copilot-custom-prompts/Generate glossary.md",
     "copilot/copilot-conversations",
     "copilot/copilot-custom-prompts",
     "copilot",
