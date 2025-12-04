@@ -10,7 +10,9 @@ tags:
 > Write your main focus here (e.g., "Declutter the Garage" or "Digitize all Paper Documents").
 
 ---
+## 📋 Tasks
 
+---
 ## 🧹 Home & Environment
 
 - **Routine Cleaning**: [[Cleaning Schedule]] (Weekly/Monthly)
@@ -44,6 +46,6 @@ tags:
 
 ---
 
-## 📋 Tasks
-
-- [ ] Admin test task
+## 📚 References
+- [Very interesting table from IKEA parts](https://www.youtube.com/shorts/nw1RdMmlTmo)
+---
