@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Health.md",
+                "file": "pages/HEWSY Roadmap.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,10 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Health"
+              "title": "HEWSY Roadmap"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,13 +207,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/HEWSY.md",
+                "file": "pages/HEWSY Roadmap.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of HEWSY"
+              "title": "Outline of HEWSY Roadmap"
             }
           },
           {
@@ -251,13 +252,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "c3187f70834e2516",
   "lastOpenFiles": [
-    "pages/Admin.md",
+    "pages/HEWSY.md",
+    "pages/HEWSY Roadmap.md",
     "pages/Health.md",
+    "pages/Admin.md",
     "Homepage.md",
     "journals/2025/12/2025-12-04.md",
-    "pages/HEWSY.md",
     "pages/Career.md",
     "journals/2025/12/2025-12-03.md",
     "pages/Competitors.md",
@@ -279,7 +281,6 @@
     "pages/Рецепти.md",
     "pages/Tasks.md",
     "pages/Методики расширения сознания.md",
-    "copilot/copilot-custom-prompts/Remove URLs.md",
     "copilot/copilot-conversations",
     "copilot/copilot-custom-prompts",
     "copilot",
