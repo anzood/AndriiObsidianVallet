@@ -16,10 +16,13 @@ up:
 
 ---
 ## 📋 Tasks
-- [ ] Make general metrics for Alex ⏳ 2025-12-02 #sphere/career
-- [ ] Answer Lorenzo 📅 2025-12-04 #sphere/career 
-- [ ] Check Chris' request 📅 2025-12-04 #sphere/career 
+- [x] Check Chris' request 📅 2025-12-04 #sphere/career ✅ 2025-12-04
+- [ ] Finish the MVP of Remarkable AI 🛫 2025-12-04  #sphere/career 
+	- [ ] Restore database
+	- [ ] Make authentication working
 ## ✅ Finished tasks
+- [x] Make general metrics for Alex ⏳ 2025-12-02 #sphere/career ✅ 2025-12-04
+- [x] Answer Lorenzo 📅 2025-12-04 #sphere/career ✅ 2025-12-04
 - [x] Write Consuello that I've got the payment 📅 2025-12-02 #sphere/career ✅ 2025-12-02
 - [x] Task to test completion ✅ 2025-11-30
 ---
