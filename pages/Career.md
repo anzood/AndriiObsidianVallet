@@ -17,13 +17,12 @@ up:
 ---
 ## 📋 Tasks
 - [ ] Make a Chris' task #sphere/career 🛫 2025-12-08
-- [ ] Finish the MVP of Remarkable AI 🛫 2025-12-04  #sphere/career 
+- [>] Finish the MVP of Remarkable AI #sphere/career #type/area 🛫 2025-12-09 14:00
 	- [x] Restore database ✅ 2025-12-05
 	- [ ] Make authentication working 🛫 2025-12-08 #sphere/career 
 ## ✅ Finished tasks
 - [x] Check Heatmap usage for Chris 📅 2025-12-08 #sphere/career ✅ 2025-12-08
 - [x] Check Chris' request 📅 2025-12-04 #sphere/career ✅ 2025-12-04
-- [x] Make general metrics for Alex ⏳ 2025-12-02 #sphere/career ✅ 2025-12-04
 - [x] Answer Lorenzo 📅 2025-12-04 #sphere/career ✅ 2025-12-04
 - [x] Write Consuello that I've got the payment 📅 2025-12-02 #sphere/career ✅ 2025-12-02
 - [x] Task to test completion ✅ 2025-11-30

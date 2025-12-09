@@ -1,6 +1,4 @@
 ## Tasks
-- [ ] Task from tasks #sphere/health 
-- [ ] Task work from tasks #sphere/family 
 
 
 ## Spheres tasks

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Health.md",
+                "file": "journals/2025/12/2025-12-09.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,34 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Health"
+              "title": "2025-12-09"
+            }
+          },
+          {
+            "id": "52e42a6ee15b1b0b",
+            "type": "leaf",
+            "state": {
+              "type": "fluent-task-genius-view",
+              "state": {
+                "currentWorkspace": "ws_1765305971644_6a7kkh181",
+                "viewMode": "list",
+                "viewModeByViewId": {
+                  "working-on": "list",
+                  "review": "list",
+                  "forecast": "list",
+                  "projects": "list",
+                  "tags": "list",
+                  "flagged": "list",
+                  "table": "list",
+                  "quadrant": "list"
+                },
+                "searchQuery": "",
+                "filters": {},
+                "filterInputValue": "",
+                "currentViewId": "working-on"
+              },
+              "icon": "task-genius",
+              "title": "Task Genius"
             }
           }
         ]
@@ -188,18 +215,20 @@
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "templater-obsidian:Templater": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "obsidian-task-progress-bar:Open Task Genius view": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "journals/2025/12/2025-12-09.md",
+    "pages/Health.md",
     "journals/2025/12/2025-12-08.md",
     "journals/2025/12/2025-12-04.md",
     "Homepage.md",
     "journals/2025/12/2025-12-03.md",
     "journals/2025/12/2025-12-01.md",
     "journals/2025/12/2025-12-02.md",
-    "pages/Health.md",
     "pages/Family.md",
     "pages/Fullstack Development Course.md",
     "journals/2025/11/2025-11-30.md",
@@ -218,7 +247,6 @@
     "pages/Spheres.md",
     "pages/Inbox.md",
     "pages/Antigravity.md",
-    "pages/Tasks.md",
     "assets/Разгибание рук на блоке.mp4",
     "assets/Отведение рук с гантелями.mp4",
     "assets/Жим гантелей на скамейке.mp4",
