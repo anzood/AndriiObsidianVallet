@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "c3187f70834e2516",
+            "id": "eb69937dbd80a91c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/HEWSY Roadmap.md",
+                "file": "pages/Career.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "HEWSY Roadmap"
+              "title": "Career"
+            }
+          },
+          {
+            "id": "c3187f70834e2516",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "journals/2025/12/2025-12-09.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-09"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -207,13 +231,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/HEWSY Roadmap.md",
+                "file": "journals/2025/12/2025-12-09.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of HEWSY Roadmap"
+              "title": "Outline of 2025-12-09"
             }
           },
           {
@@ -254,13 +278,16 @@
   },
   "active": "c3187f70834e2516",
   "lastOpenFiles": [
-    "pages/HEWSY.md",
+    "pages/Career.md",
+    "journals/2025/12/2025-12-09.md",
     "pages/HEWSY Roadmap.md",
+    "journals/2025/12/2025-12-08.md",
+    "pages/HEWSY.md",
+    "journals/2025/12/2025-12-05.md",
     "pages/Health.md",
     "pages/Admin.md",
     "Homepage.md",
     "journals/2025/12/2025-12-04.md",
-    "pages/Career.md",
     "journals/2025/12/2025-12-03.md",
     "pages/Competitors.md",
     "pages/Питание.md",
@@ -278,9 +305,6 @@
     "Excalidraw",
     "templates/new_note.md",
     "pages/Упражнения для мышц шеи.md",
-    "pages/Рецепти.md",
-    "pages/Tasks.md",
-    "pages/Методики расширения сознания.md",
     "copilot/copilot-conversations",
     "copilot/copilot-custom-prompts",
     "copilot",

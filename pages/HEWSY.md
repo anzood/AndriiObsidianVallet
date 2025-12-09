@@ -75,9 +75,9 @@ lang: en
 - **Project Setup**
   - Initialize SvelteKit ✅
   - Setup Tailwind & Shadcn ✅
-  - Configure Prisma & Supabase 🛠️
+  - Configure Prisma & Supabase ✅
 - **UI skeleton**
-  - List of pages
+  - List of pages 🛠️
   - Routes
 - **Database Implementation**
   - Create User & Profile models
