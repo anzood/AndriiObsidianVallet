@@ -64,5 +64,13 @@
       ],
       "key": "Q"
     }
+  ],
+  "obsidian-task-archiver:archive-tasks": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "]"
+    }
   ]
 }

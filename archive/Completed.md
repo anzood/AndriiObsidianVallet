@@ -1,4 +1,7 @@
+# 🏛️ Archive
 ## ✅ Finished tasks
+
+- [x] Test task 2 ✅ 2025-12-10 🔒 archived 2025-12-10 from [[2025-12-10]]
 - [x] Make general metrics for Alex ⏳ 2025-12-02 #sphere/career ✅ 2025-12-04 archived on 2025-12-09 from [[Career]]
 - [x] I want to add a new task 🛫 2025-12-09 ✅ 2025-12-09 archived on 2025-12-09 from [[Inbox]]
 - [x] Task work from tasks #sphere/family  🛫 2025-12-09 ✅ 2025-12-09 archived on 2025-12-09 from [[Tasks]]
@@ -8,3 +11,4 @@
 - [x] Написать ревматологу про лекарство ⏳ 2025-12-05 #sphere/health ✅ 2025-12-09 archived on 2025-12-09 from [[Health]]
 - [x] Записаться к дерматологу⏳ 2025-12-01 #sphere/health ✅ 2025-12-01 archived on 2025-12-09 from [[Health]]
 - [x] Записаться к офтальмологу 📅 2025-12-01 #sphere/health ✅ 2025-12-01 archived on 2025-12-09 from [[Health]]
+- [x] Test task 🔺 📅 2025-12-10 ✅ 2025-12-10 🔒 archived 2025-12-10 from [[2025-12-10]]

@@ -17,7 +17,7 @@ up:
 ---
 ## 📋 Tasks
 - [ ] Make a Chris' task #sphere/career 🛫 2025-12-08
-- [>] Finish the MVP of Remarkable AI #sphere/career #type/area 🛫 2025-12-09 14:00
+- [>] Finish the MVP of Remarkable AI #sphere/career #type/area 🛫 2025-12-09
 	- [x] Restore database ✅ 2025-12-05
 	- [ ] Make authentication working 🛫 2025-12-08 #sphere/career 
 ## ✅ Finished tasks

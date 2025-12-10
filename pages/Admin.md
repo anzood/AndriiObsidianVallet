@@ -2,8 +2,9 @@
 tags:
   - sphere/admin
   - type/area
+up:
+  - "[[Spheres]]"
 ---
-
 # 🏠 Admin
 
 > [!GOAL] **Current Prime Objective**

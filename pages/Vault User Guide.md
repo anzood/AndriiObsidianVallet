@@ -6,7 +6,7 @@ lang: en
 up:
   - "[[Homepage]]"
 ---
-# Vault User Guide
+∂# Vault User Guide
 
 Welcome to your **Hybrid Zettelkasten/MOC System**. This vault is designed for action, clarity, and connection.
 
@@ -44,6 +44,7 @@ We use a **Hybrid System**:
     - `#sphere/growth` (Where does it belong?)
     - `#type/resource` (What format is it?)
     - `#status/wip` (What is its state?)
+    - `#project/hewst` (What is its project?)
 2.  **Content Tags (Atomic):** Define _what it's about_.
     - `#python`, `#investing`, `#recipes` (No nesting, just the topic).
 

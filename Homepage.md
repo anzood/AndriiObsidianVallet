@@ -98,6 +98,10 @@ LIMIT 5
 [[Tag System]] - _The tag system_
 [[Vault User Guide]]
 
+## 🛠️ Resources
+- [Vercel](https://vercel.com/) - frontends
+- [Railway](https://railway.com/dashboard) - long running backends
+- [Supabase](https://supabase.com/) - database and authentications
 ## ⚡ Quick Actions
 - [[Inbox]]
 - [[Tasks]]

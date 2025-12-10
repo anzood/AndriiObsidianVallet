@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "archive/Completed.md",
+                "file": "pages/Web development.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Completed"
+              "title": "Web development"
             }
           },
           {
-            "id": "dd51840fde3051a4",
+            "id": "880c3ec4f779e42b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Health.md",
+                "file": "pages/Project ideas.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,35 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Health"
-            }
-          },
-          {
-            "id": "439d1f0e3123b0b1",
-            "type": "leaf",
-            "state": {
-              "type": "fluent-task-genius-view",
-              "state": {
-                "currentWorkspace": "ws_1765305971644_6a7kkh181",
-                "viewMode": "tree",
-                "viewModeByViewId": {
-                  "inbox": "tree",
-                  "projects": "list",
-                  "upcoming": "tree",
-                  "today": "tree",
-                  "working-on": "list"
-                },
-                "searchQuery": "",
-                "filters": {},
-                "filterInputValue": "",
-                "currentViewId": "inbox"
-              },
-              "icon": "task-genius",
-              "title": "Task Genius"
+              "title": "Project ideas"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,7 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 200
   },
   "right": {
     "id": "3c30bb12371012ca",
@@ -231,13 +207,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/Health.md",
+                "file": "pages/Project ideas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Health"
+              "title": "Outline of Project ideas"
             }
           },
           {
@@ -259,8 +235,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5,
-    "collapsed": true
+    "width": 263.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -278,37 +253,37 @@
       "obsidian-task-progress-bar:Open Task Genius view": false
     }
   },
-  "active": "439d1f0e3123b0b1",
+  "active": "880c3ec4f779e42b",
   "lastOpenFiles": [
-    "archive/Completed.md",
-    "pages/Health.md",
-    "pages/Tasks.md",
-    "journals/2025/12/2025-12-09.md",
-    "pages/Vault User Guide.md",
-    "pages/Wealth.md",
-    "pages/Методики расширения сознания.md",
-    "pages/Питание.md",
-    "pages/Рецепти.md",
-    "pages/Упражнения для мышц шеи.md",
-    "pages/Antigravity system prompt.md",
-    "pages/Untitled Diagram.svg",
+    "pages/Web development.md",
+    "pages/Project ideas.md",
     "pages/Admin.md",
-    "archive/Completed Tasks.md.md",
-    "archive/Completed Tasks.md",
-    "pages/Inbox.md",
-    "pages/Career.md",
-    "pages/Family.md",
-    "archive",
-    "QuickCapture.md",
-    "journals/2025/12/2025-12-10.md",
-    "drawings/Untitled Diagram.svg",
-    "drawings/Drawing 2025-12-09 14.34.01.excalidraw.md",
-    "pages/HEWSY.md",
-    "pages/HEWSY Roadmap.md",
-    "journals/2025/12/2025-12-08.md",
-    "journals/2025/12/2025-12-05.md",
+    "pages/Antigravity system prompt.md",
+    "pages/Svelte.md",
+    "pages/Map of Content.md",
     "Homepage.md",
+    "journals/2025/12/2025-12-10.md",
+    "journals/2025/12/2025-12-09.md",
+    "journals/2025/12/2025-12-08.md",
+    "pages/Inbox.md",
+    "journals/2025/12/2025-12-05.md",
     "journals/2025/12/2025-12-04.md",
+    "journals/2025/12/2025-12-03.md",
+    "journals/2025/12/2025-12-02.md",
+    "journals/2025/12/2025-12-01.md",
+    "templates/moc.md",
+    "templates/new_note.md",
+    "archive/Completed.md",
+    "drawings/Drawing 2025-12-09 14.34.01.excalidraw.md",
+    "archive/Completed.md.md",
+    "pages/Health.md",
+    "pages/HEWSY.md",
+    "pages/Crypto rush.md",
+    "pages/Tag System.md",
+    "pages/Vault User Guide.md",
+    "pages/Untitled Diagram.svg",
+    "archive",
+    "drawings/Untitled Diagram.svg",
     "Excalidraw",
     "copilot/copilot-conversations",
     "copilot/copilot-custom-prompts",

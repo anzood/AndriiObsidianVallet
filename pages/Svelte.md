@@ -3,7 +3,7 @@ tags:
   - type/note
 created: 2025-12-02 15:02
 up:
-  - "[[Map of Content]]"
+  - "[[Web development]]"
 related:
   - 
 lang: en

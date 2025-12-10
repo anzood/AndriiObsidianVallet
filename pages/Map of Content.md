@@ -4,22 +4,19 @@ tags:
 lang: en
 created: 2025-11-30
 ---
-
 # Map of Content
 
-## 🗺️ Context
+## 📝 Content
 
-_The central hub for all my knowledge. Everything flows from here._
+Here is a root of the Knowledge database.
+All the documents here have to go up to this document in the end.
 
-## 🗂️ Key Topics
+## 📑 Topics
+- [[Web development]] - here are collected the resources, related to the... web development, actually. 🙂
+## 📥 [[Inbox]]
 
-- [[Growth]]
-- [[Health]]
-- [[Wealth]]
-- [[Play]]
-- [[Career]]
-
-## 📥 Inbox
+> [!NOTE] TODO
+> Check and fix the query below
 
 _New or unfiled notes related to this topic._
 
