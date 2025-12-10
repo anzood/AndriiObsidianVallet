@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Admin.md",
+                "file": "pages/Family.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Admin"
+              "title": "Family"
             }
           },
           {
@@ -230,13 +230,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/Admin.md",
+                "file": "pages/Family.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Admin"
+              "title": "Outline of Family"
             }
           },
           {
@@ -271,13 +271,12 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "templater-obsidian:Templater": false,
       "github-sync:Sync with Remote": false,
-      "homepage:Open homepage": false,
-      "periodic-notes:Open today": false,
-      "obsidian-task-progress-bar:Open Task Genius view": false
+      "periodic-notes:Open today": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "pages/Admin.md",
     "pages/Health.md",
     "pages/Web development.md",
     "pages/Vault User Guide.md",
@@ -285,7 +284,6 @@
     "pages/HEWSY.md",
     "pages/Projects.md",
     "pages/Project ideas.md",
-    "pages/Admin.md",
     "pages/Antigravity system prompt.md",
     "pages/Svelte.md",
     "pages/Map of Content.md",
