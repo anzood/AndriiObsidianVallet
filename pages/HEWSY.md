@@ -5,7 +5,7 @@ tags:
   - status/wip
 created: 2025-12-02 15:17
 up:
-  - "[[Homepage]]"
+  - "[[Projects]]"
 related:
   - "[[HEWSY Roadmap]]"
 lang: en

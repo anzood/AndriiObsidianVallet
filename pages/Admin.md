@@ -4,6 +4,7 @@ tags:
   - type/area
 up:
   - "[[Spheres]]"
+  - "[[Homepage]]"
 ---
 # 🏠 Admin
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Web development.md",
+                "file": "pages/Admin.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Web development"
+              "title": "Admin"
             }
           },
           {
-            "id": "880c3ec4f779e42b",
+            "id": "9e3a41362dd94b0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Project ideas.md",
+                "file": "pages/HEWSY Roadmap.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,34 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Project ideas"
+              "title": "HEWSY Roadmap"
+            }
+          },
+          {
+            "id": "880c3ec4f779e42b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/Vault User Guide.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Vault User Guide"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,13 +230,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/Project ideas.md",
+                "file": "pages/Admin.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Project ideas"
+              "title": "Outline of Admin"
             }
           },
           {
@@ -253,9 +276,14 @@
       "obsidian-task-progress-bar:Open Task Genius view": false
     }
   },
-  "active": "880c3ec4f779e42b",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "pages/Health.md",
     "pages/Web development.md",
+    "pages/Vault User Guide.md",
+    "pages/HEWSY Roadmap.md",
+    "pages/HEWSY.md",
+    "pages/Projects.md",
     "pages/Project ideas.md",
     "pages/Admin.md",
     "pages/Antigravity system prompt.md",
@@ -276,11 +304,6 @@
     "archive/Completed.md",
     "drawings/Drawing 2025-12-09 14.34.01.excalidraw.md",
     "archive/Completed.md.md",
-    "pages/Health.md",
-    "pages/HEWSY.md",
-    "pages/Crypto rush.md",
-    "pages/Tag System.md",
-    "pages/Vault User Guide.md",
     "pages/Untitled Diagram.svg",
     "archive",
     "drawings/Untitled Diagram.svg",
