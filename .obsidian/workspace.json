@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Family.md",
+                "file": "journals/2025/12/2025-12-11.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Family"
+              "title": "2025-12-11"
             }
           },
           {
@@ -230,13 +230,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/Family.md",
+                "file": "journals/2025/12/2025-12-11.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Family"
+              "title": "Outline of 2025-12-11"
             }
           },
           {
@@ -270,13 +270,15 @@
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "templater-obsidian:Templater": false,
-      "github-sync:Sync with Remote": false,
-      "periodic-notes:Open today": false
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "pages/Admin.md",
+    "pages/Spheres.md",
+    "journals/2025/12/2025-12-11.md",
+    "pages/Family.md",
     "pages/Health.md",
     "pages/Web development.md",
     "pages/Vault User Guide.md",
@@ -299,9 +301,6 @@
     "journals/2025/12/2025-12-01.md",
     "templates/moc.md",
     "templates/new_note.md",
-    "archive/Completed.md",
-    "drawings/Drawing 2025-12-09 14.34.01.excalidraw.md",
-    "archive/Completed.md.md",
     "pages/Untitled Diagram.svg",
     "archive",
     "drawings/Untitled Diagram.svg",
