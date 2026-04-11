@@ -72,11 +72,6 @@ On Vercel, you never run migrations in production. on Railway, you *can*, but yo
 
 ### Summary Checklist
 
-1.  [ ] **Split URLs:** Do you have both `DATABASE_URL` (port 6543) and `DIRECT_URL` (port 5432) in your `.env`?
-2.  [ ] **Schema Config:** Does your `schema.prisma` use `directUrl`?
-3.  [ ] **Build Cmd:** Does Railway run `npx prisma generate` during build?
-4.  [ ] **Pool Limit:** Is `&connection_limit=5` (or similar) added to your connection string?
-5.  [ ] **Start Cmd:** Does your start command apply migrations (`npx prisma migrate deploy`)?
 
 **Next Step:** Your Volume Indicator will need to calculate moving averages. Would you like a **Python (Pandas)** or **Node.js (TechnicalIndicators)** snippet to calculate this efficiently without re-looping through the whole array every time a new trade comes in?
 ## 📚 References

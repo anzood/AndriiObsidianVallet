@@ -19,7 +19,3 @@ Source: [Become a Fullstack Developer from Scratch – Full Beginner’s Tutoria
 ### Notes
 
 -
-
-```
-
-```

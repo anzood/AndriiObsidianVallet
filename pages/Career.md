@@ -8,7 +8,6 @@ up:
   - "[[Spheres]]"
   - "[[Homepage]]"
 ---
-
 # 💼 Career
 
 > [!GOAL] **Current Prime Objective**
@@ -16,16 +15,12 @@ up:
 
 ---
 ## 📋 Tasks
-- [ ] Make a Chris' task #sphere/career 🛫 2025-12-08
-- [>] Finish the MVP of Remarkable AI #sphere/career #type/area 🛫 2025-12-09
+- [/] Finish the MVP of Remarkable AI #sphere/career #type/area 🛫 2026-01-12
+	- [ ] Make new survey
 	- [x] Restore database ✅ 2025-12-05
-	- [ ] Make authentication working 🛫 2025-12-08 #sphere/career 
-## ✅ Finished tasks
-- [x] Check Heatmap usage for Chris 📅 2025-12-08 #sphere/career ✅ 2025-12-08
-- [x] Check Chris' request 📅 2025-12-04 #sphere/career ✅ 2025-12-04
-- [x] Answer Lorenzo 📅 2025-12-04 #sphere/career ✅ 2025-12-04
-- [x] Write Consuello that I've got the payment 📅 2025-12-02 #sphere/career ✅ 2025-12-02
-- [x] Task to test completion ✅ 2025-11-30
+	- [x] Make authentication working 🛫 2025-12-08 #sphere/career ✅ 2025-12-16
+- [ ] Answer to Filip Krzyzanowski (mail) 🛫 2026-01-05 #sphere/career 
+
 ---
 ## 🚀 Active Projects (Output)
 

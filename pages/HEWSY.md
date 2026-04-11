@@ -8,6 +8,8 @@ up:
   - "[[Projects]]"
 related:
   - "[[HEWSY Roadmap]]"
+  - "[[HEWSY UI]]"
+  - "[[HEWSY Architecture]]"
 lang: en
 ---
 
@@ -78,6 +80,7 @@ lang: en
   - Configure Prisma & Supabase ✅
 - **UI skeleton**
   - List of pages 🛠️
+  - [[HEWSY UI]]
   - Routes
 - **Database Implementation**
   - Create User & Profile models

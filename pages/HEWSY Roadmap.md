@@ -4,6 +4,9 @@ tags:
   - type/note
 up:
   - "[[HEWSY]]"
+related:
+  - "[[HEWSY UI]]"
+  - "[[HEWSY Architecture]]"
 ---
 
 # 🗺️ HEWSY: Non-Technical Task Roadmap

@@ -4,7 +4,6 @@ tags:
   - type/note
 lang: en
 ---
-
 # Antigravity system prompt
 
 This is prompt to use it as an example.

@@ -1,6 +1,8 @@
 ---
 tags:
   - moc
+up:
+  - "[[Homepage]]"
 lang: en
 created: 2025-11-30
 ---
