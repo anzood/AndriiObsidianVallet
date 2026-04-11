@@ -1,0 +1,876 @@
+[
+  {
+    "title": "WWDC25: Explore large language models on Apple silicon with MLX | Apple - YouTube",
+    "url": "https://www.youtube.com/watch?v=tn2Hvw7eCsw",
+    "description": "This video from Apple's WWDC25 explores how to use and fine-tune large language models (LLMs) efficiently on Apple silicon using the MLX framework.",
+    "tags": [
+      "#AppleSilicon",
+      "#LLM",
+      "#MachineLearning"
+    ],
+    "is_organized": true
+  },
+  {
+    "title": "Handstand Tutorial (that will ACTUALLY help you HOLD it!) - YouTube",
+    "url": "https://youtu.be/lGIFTWsBXdw?si=Y7Ypa6rjKmZ8Pb0A",
+    "description": "A former gymnast and cheerleader provides a tutorial on how to learn and improve handstands by focusing on a different method than the traditional straight body position.",
+    "tags": [
+      "#handstand",
+      "#tumbling",
+      "#gymnastics"
+    ],
+    "is_organized": true
+  },
+  {
+    "title": "WHY WON'T YOUR NECK RELAX? 4 Techniques for Release ...",
+    "url": "https://www.youtube.com/shorts/95Lk1Yzzt7U",
+    "description": "This short video offers four techniques to release neck tension by focusing on the interconnectedness of the cervical and upper thoracic spine.",
+    "tags": [
+      "#neckpain",
+      "#posture",
+      "#fitness"
+    ],
+    "is_organized": true
+  },
+  {
+    "title": "No Excuses! Do This Full Body Workout Anywhere! Bodyweight Only ...",
+    "url": "https://youtu.be/uQ-iK2NlQ_g?si=SZQrHW2iM_jvT4YO",
+    "description": "This video presents a fun and effective bodyweight-only full-body workout routine that can be done anywhere without equipment.",
+    "tags": [
+      "#workout",
+      "#fitness",
+      "#bodyweight"
+    ],
+    "is_organized": true
+  },
+  {
+    "title": "7 Microhabits for Happiness That Actually Work (Proven by ...",
+    "url": "https://youtu.be/CvDRNFcWVEk?si=56ouxl4UWbMXtnbo",
+    "description": "This animated video presents seven quick, psychology-backed microhabits designed to reprogram the brain for increased happiness and emotional control.",
+    "tags": [
+      "#happiness",
+      "#psychology",
+      "#microhabits"
+    ],
+    "is_organized": true
+  },
+  {
+    "title": "Я вернул себе фокус (вот, что реально сработало) - YouTube",
+    "url": "https://youtu.be/Ot8Eks_SAsQ?si=pWrXnJEeja3L8vdt",
+    "description": "A Data Scientist shares effective strategies he used to regain focus and concentration, addressing common issues like multitasking and distractions.",
+    "tags": [
+      "#productivity",
+      "#focus",
+      "#selfimprovement"
+    ],
+    "is_organized": true
+  },
+  {
+    "title": "How to Catch Luck? | How Smartphones Turn Us into Losers ...",
+    "url": "https://youtu.be/uk3g9LNCVmM?si=GualbMrwGYevy2RC",
+    "description": "This video discusses Richard Wiseman's theory that luck is about noticing opportunities and argues that smartphones can hinder this ability.",
+    "tags": [
+      "#luck",
+      "#smartphones",
+      "#psychology"
+    ],
+    "is_organized": true
+  },
+  {
+    "title": "Started in January and fixed my life in 365 days - YouTube",
+    "url": "https://youtu.be/5whQauZd_Ao?si=ynFzScsDjgvfMf73",
+    "description": "This video details a simple daily journaling system to track events, habits, and metrics, helping to remember the year and identify progress.",
+    "tags": [
+      "#selfimprovement",
+      "#productivity",
+      "#journaling"
+    ],
+    "is_organized": true
+  },
+  {
+    "title": "НИКОГДА НЕ ЛОЖИСЬ СПАТЬ БЕЗ ЗАПРОСА К ... - YouTube",
+    "url": "https://youtu.be/JPPloUdy7yE?si=QE9iRqXdC2gWlcAp",
+    "description": "This video teaches a powerful practice of formulating conscious requests to the subconscious before sleep to guide one's life and avoid old patterns.",
+    "tags": [
+      "#subconscious",
+      "#mindset",
+      "#selfimprovement"
+    ],
+    "is_organized": true
+  },
+  {
+    "title": "Typst: The new foundation for documents",
+    "url": "https://typst.app/",
+    "description": "Typst is a new open-source markup-based typesetting system designed for creating various documents, offering features like instant previews, scripting, and collaboration.",
+    "tags": [
+      "#typesetting",
+      "#documents",
+      "#opensource"
+    ],
+    "is_organized": true
+  },
+  {
+    "title": "If you want 2026 to be the best year of your life, please watch this ...",
+    "url": "https://youtu.be/Q10H5RA3eCA?si=0oDNKq129VNkJ-5T",
+    "description": "Daniel Pink shares a science-backed system and practical tools to plan and achieve goals for the best year, relying on structure over motivation.",
+    "tags": [
+      "#productivity",
+      "#goalsetting",
+      "#selfimprovement"
+    ],
+    "is_organized": true
+  },
+  {
+    "title": "What I found on the menu of people who look 35 at 50. Food that ...",
+    "url": "https://youtu.be/6CR1TWTbpTY?si=pHsMHGyeq6PSfNLl",
+    "description": "A doctor shares seven simple and affordable foods that can help reduce inflammation, strengthen the heart, improve memory, and maintain energy after the age of 40.",
+    "tags": [
+      "#health",
+      "#nutrition",
+      "#antiaging"
+    ],
+    "is_organized": true
+  },
+  {
+    "title": "Сделай это один раз — настроение меняется сразу (Проверь ...",
+    "url": "https://youtu.be/YLsIs07_qjc?si=kqJZ7F7SJOMqg7Qw",
+    "description": "This video explains how a simple question can instantly shift one's mood and bring back control by fostering mindfulness and breaking automatic emotional reactions.",
+    "tags": [
+      "#mindfulness",
+      "#emotions",
+      "#selfhelp"
+    ],
+    "is_organized": true
+  },
+  {
+    "title": "Я выучил английский до уровня носителя (вот что я делал ...",
+    "url": "https://youtu.be/aJsd7w9p17s?si=f1JzX-TjC79lK1ji",
+    "description": "This video outlines a daily routine and system that helped the creator achieve native-level English proficiency, focusing on integrating the language into everyday life.",
+    "tags": [
+      "#EnglishLearning",
+      "#languageacquisition",
+      "#dailyroutine"
+    ],
+    "is_organized": true
+  },
+  {
+    "title": "Два моих фаворита в мире подкастов на английском - YouTube",
+    "url": "https://youtu.be/VTieM9IrBDc?si=jVOYKkoigE7M_JCY",
+    "description": "This video recommends two favorite English podcasts, \"Luke's English Podcast\" and \"All Ears English,\" for language learners.",
+    "tags": [
+      "#EnglishLearning",
+      "#podcasts",
+      "#language"
+    ],
+    "is_organized": true
+  },
+  {
+    "title": "How to get EVERYTHING done? – A 4-step system that will change your life",
+    "url": "https://youtu.be/z7VXGy_3O4M?si=nCYDojcvf6wxO-Cw",
+    "description": "This video presents a 4-step system for task management and productivity, designed to help individuals achieve their goals and gain control over their lives.",
+    "tags": [
+      "#Productivity",
+      "#TaskManagement",
+      "#SelfImprovement"
+    ],
+    "is_organized": true
+  },
+  {
+    "title": "The Only 5 Calisthenics Moves Busy Men Need",
+    "url": "https://youtu.be/F94uX-CqTn8?si=A5ugjdOz0QHxjr89",
+    "description": "This video demonstrates five essential calisthenics exercises for busy men to build strength, muscle, and improve joint health without needing a gym.",
+    "tags": [
+      "#Calisthenics",
+      "#HomeWorkout",
+      "#Fitness"
+    ],
+    "is_organized": true
+  },
+  {
+    "title": "I'm 53. If you're 30 or 40, watch this.",
+    "url": "https://www.youtube.com/watch?v=_oQOVC5ESt8",
+    "description": "A 53-year-old shares five consistent habits from his 30s and 40s that helped him stay pain-free and maintain physical capability.",
+    "tags": [
+      "#Health",
+      "#Longevity",
+      "#FitnessOver40"
+    ],
+    "is_organized": true
+  },
+  {
+    "title": "I Couldn't SQUAT For Years...Until I Did This",
+    "url": "https://www.youtube.com/watch?v=k-0OYcoyASk",
+    "description": "This video explains a simple and effective method to improve deep squatting ability, particularly for individuals who spend long hours sitting.",
+    "tags": [
+      "#Squat",
+      "#Mobility",
+      "#Fitness"
+    ],
+    "is_organized": true
+  },
+  {
+    "title": "Шум в ушах виноваты не уши а одна мышца шеи",
+    "url": "https://youtube.com/shorts/vUrKFiwklh0?si=D4TrV79uyQixh2e4",
+    "description": "This short video suggests that tinnitus (ringing in the ears) might be caused by a specific neck muscle rather than the ears themselves.",
+    "tags": [
+      "#Health",
+      "#Tinnitus",
+      "#NeckPain"
+    ],
+    "is_organized": true
+  },
+  {
+    "title": "Две фразы изменят вашу жизнь Быстро изменить реальность ...",
+    "url": "https://youtube.com/shorts/9rzeF0lPTtI?si=9VutsG5CxKvpzSi-",
+    "description": "This short video claims that two specific phrases can quickly change one's reality, attract money, and transform life through the power of thought.",
+    "tags": [
+      "#SelfHelp",
+      "#Manifestation",
+      "#Mindset"
+    ],
+    "is_organized": true
+  },
+  {
+    "title": "Python Numbers Every Programmer Should Know • Michael Kennedy's Thoughts on Technology",
+    "url": "https://mkennedy.codes/posts/python-numbers-every-programmer-should-know/",
+    "description": "This article provides an extensive table of performance and memory benchmarks for common Python operations, data structures, and frameworks to help developers write more efficient code.",
+    "tags": [
+      "#Python",
+      "#Performance",
+      "#Programming"
+    ],
+    "is_organized": true
+  },
+  {
+    "title": "Machine Learning Intuition",
+    "url": "https://eliottkalfon.github.io/ml_intuition/",
+    "description": "This online book aims to explain the core concepts and intuition behind machine learning and AI, focusing on clear explanations and simple visualizations rather than complex mathematics.",
+    "tags": [
+      "#MachineLearning",
+      "#AI",
+      "#DataScience"
+    ],
+    "is_organized": true
+  },
+  {
+    "title": "The Formula for a Calm Life – How I Stopped Living in Stress!",
+    "url": "https://youtu.be/OGcEjzimFsM?si=ihk-JicXiCZurqRc",
+    "description": "A personal account sharing a formula for living a calm life and reducing stress, based on the author's own experiences rather than medical advice.",
+    "tags": [
+      "#StressRelief",
+      "#MentalWellness",
+      "#SelfCare"
+    ],
+    "is_organized": true
+  },
+  {
+    "title": "3 Brain Tricks That Make You Happier in 15 Seconds",
+    "url": "https://youtu.be/j2lZd39nsiE?si=AaRUgT5LCcg1Pj2Z",
+    "description": "This video reveals three simple brain tricks, backed by psychology and neuroscience, that can instantly improve mood and help manage emotional spirals.",
+    "tags": [
+      "#MentalHealth",
+      "#Happiness",
+      "#Neuroscience"
+    ],
+    "is_organized": true
+  },
+  {
+    "title": "ANYONE can be mentally tough. It's easy.",
+    "url": "https://youtu.be/Ea0fUDES1Hc?si=xaM1ZZ3MQ_x4u7j0",
+    "description": "This video presents an evidence-based routine for developing mental toughness, rooted in scientific literature, that can be practiced daily at home.",
+    "tags": [
+      "#MentalToughness",
+      "#SelfImprovement",
+      "#Psychology"
+    ],
+    "is_organized": true
+  },
+  {
+    "title": "Plane | Simple, extensible, open-source project management tool.",
+    "url": "https://app.plane.so/smartlab/",
+    "description": "Plane is an open-source project management tool designed to be simple, extensible, and suitable for various project needs.",
+    "tags": [
+      "#ProjectManagement",
+      "#OpenSource",
+      "#SoftwareDevelopment"
+    ],
+    "is_organized": true
+  },
+  {
+    "title": "How to Not Be Overwhelmed by AI – A Developer's Guide to Using AI Tools Effectively",
+    "url": "https://www.freecodecamp.org/news/how-to-not-be-overwhelmed-by-ai/",
+    "description": "This guide offers developers mental models and practical strategies to effectively use AI tools, avoid common pitfalls, and integrate AI into their daily coding routines without being overwhelmed.",
+    "tags": [
+      "#AI",
+      "#DeveloperTools",
+      "#Productivity"
+    ],
+    "is_organized": true
+  },
+  {
+    "title": "The Math Behind Artificial Intelligence: A Guide to AI Foundations [Full Book]",
+    "url": "https://www.freecodecamp.org/news/the-math-behind-artificial-intelligence-book/#heading-chapter-2-the-architecture-of-mathematics",
+    "description": "This full book provides a detailed guide to the mathematical foundations of Artificial Intelligence, breaking down complex ideas into simpler terms for a broad audience.",
+    "tags": [
+      "#AI",
+      "#Mathematics",
+      "#MachineLearning"
+    ],
+    "is_organized": true
+  },
+  {
+    "title": "Neuroscience Confirms: This One Behavior Quietly Weakens Your Brain",
+    "url": "https://youtu.be/negnKVYXloc?si=GJlWukxhvAtDz-Sb",
+    "description": "This video discusses a specific daily habit, linked to digital overstimulation, that weakens brain functions like focus, working memory, and motivation, and offers steps to reverse it.",
+    "tags": [
+      "#Neuroscience",
+      "#BrainHealth",
+      "#DigitalDetox"
+    ],
+    "is_organized": true
+  },
+  {
+    "title": "How to quickly end any emotion",
+    "url": "https://youtu.be/Nsae1dg3SIQ?si=6jlstBd6_AFAoBaZ",
+    "description": "This video teaches a step-by-step self-regulation algorithm to complete emotional cycles, rather than suppressing them, based on the \"short storm\" principle of neurophysiology.",
+    "tags": [
+      "#EmotionalRegulation",
+      "#MentalHealth",
+      "#SelfHelp"
+    ],
+    "is_organized": true
+  },
+  {
+    "title": "Как сыграть ЛЮБУЮ ПЕСНЮ БЕЗ НОТ на пианино с нуля? Сможет даже новичок!",
+    "url": "https://www.youtube.com/watch?v=8INEWM_BU_g",
+    "description": "This video offers a method for beginners to learn how to play any song on the piano by ear, without needing to read sheet music.",
+    "tags": [
+      "#PianoLessons",
+      "#MusicLearning",
+      "#BeginnerPiano"
+    ],
+    "is_organized": true
+  },
+  {
+    "title": "Advent of Claude: 31 Days of Claude Code — adocomplete",
+    "url": "https://adocomplete.com/advent-of-claude-2025/",
+    "description": "The article \"Advent of Claude: 31 Days of Claude Code\" by Ado Kukic is a comprehensive guide to Claude Code's features, compiling 31 daily tips into a structured resource for both beginners and advanced users.",
+    "tags": [
+      "#ClaudeCode",
+      "#AIProgramming",
+      "#DeveloperTools"
+    ],
+    "is_organized": true
+  },
+  {
+    "title": "РЕГИСТРАЦИЯ И СОПРОВОЖДЕНИЕ БИЗНЕСА В РУМЫНИИ",
+    "url": "https://linktr.ee/larinconsulting",
+    "description": "This page provides links to various social media platforms and the official website for Larin Consulting, a company that offers business registration and support services in Romania.",
+    "tags": [
+      "#BusinessInRomania",
+      "#LarinConsulting",
+      "#BusinessRegistration"
+    ],
+    "is_organized": true
+  },
+  {
+    "title": "Telegram: Romania 🇷🇴 Business 🇺🇦 Ukraine",
+    "url": "https://t.me/romaniabusinessukraine",
+    "description": "This Telegram channel offers services including legal, accounting, and financial consulting, assistance with residence permits, business grants, and business meetings in Bucharest.",
+    "tags": [
+      "#RomaniaUkraineBusiness",
+      "#BusinessConsulting",
+      "#GrantsForBusiness"
+    ],
+    "is_organized": true
+  },
+  {
+    "title": "Chapters - Deep Learning with Python",
+    "url": "https://deeplearningwithpython.io/chapters/",
+    "description": "This page lists the chapters of the book \"Deep Learning with Python, Third Edition\", covering topics from the basics of deep learning and neural networks to advanced concepts like image segmentation, object detection, language models, and AI's future.",
+    "tags": [
+      "#DeepLearning",
+      "#Python",
+      "#MachineLearning"
+    ],
+    "is_organized": true
+  },
+  {
+    "title": "What's new in pandas 3 - Marc Garcia",
+    "url": "https://datapythonista.me/blog/whats-new-in-pandas-3",
+    "description": "The article details the new features in pandas 3, emphasizing performance, syntax, and user experience improvements. It highlights the full implementation of copy-on-write to resolve `SettingWithCopyWarning`, the introduction of a `pandas.col()` expression API for clearer method chaining, and enhanced support for accelerated user-defined functions via external engines.",
+    "tags": [
+      "#pandas3",
+      "#DataScience",
+      "#Python"
+    ],
+    "is_organized": true
+  },
+  {
+    "title": "Дешева оренда в Греції: як знайти нормальне житло? - YouTube",
+    "url": "https://www.youtube.com/watch?v=-8QEMZh8fXo",
+    "description": "This video provides tips and information on how to find affordable rental housing in Greece, discussing potential challenges and things to look out for.",
+    "tags": [
+      "#Greece",
+      "#Travel",
+      "#RealEstate"
+    ],
+    "is_organized": true
+  },
+  {
+    "title": "Велика морська подорож на вітрильній яхті.ГРЕЦІЯ. ПАКУЄМО ВАЛІЗИ - YouTube",
+    "url": "https://www.youtube.com/watch?v=GuJmXka-e88",
+    "description": "This video is about a grand sea voyage on a sailing yacht in Greece, exploring various Greek islands. It details the experience of a yacht trip, including its advantages and disadvantages, and showcases different locations.",
+    "tags": [
+      "#Greece",
+      "#Sailing",
+      "#Travel"
+    ],
+    "is_organized": true
+  },
+  {
+    "title": "Боул: что это, преимущества и рецепт на завтрак - Т—Ж",
+    "url": "https://t-j.ru/list/chto-na-zavtrak/",
+    "description": "This article introduces \"bowls\" as an ideal breakfast option, emphasizing their quick preparation time, nutritional value, and aesthetic appeal. It provides 10 diverse recipes to inspire readers to create their own healthy and delicious breakfast bowls.",
+    "tags": [
+      "#breakfast",
+      "#bowl",
+      "#recipes"
+    ],
+    "is_organized": true
+  },
+  {
+    "title": "Using Trapezoids to Visualize Matrix Multiplication, With Applications to Data Science | by Max Watson | Jan, 2026 | Medium",
+    "url": "https://medium.com/@redhotchilipaper/using-trapezoids-to-visualize-matrix-multiplication-with-applications-to-data-science-e1cff40de098",
+    "description": "",
+    "tags": [],
+    "is_organized": false
+  },
+  {
+    "title": "Introducing beginners to the mechanics of machine learning – Miriam Posner",
+    "url": "https://miriamposner.com/blog/introducing-beginners-to-the-mechanics-of-machine-learning/",
+    "description": "",
+    "tags": [],
+    "is_organized": false
+  },
+  {
+    "title": "Claude Code and What Comes Next - by Ethan Mollick",
+    "url": "https://www.oneusefulthing.org/p/claude-code-and-what-comes-next",
+    "description": "",
+    "tags": [],
+    "is_organized": false
+  },
+  {
+    "title": "Дзэн буддизм. Особенности, основы школы Дзэн буддизма. Что такое Дзен? Основные идеи и принципы дзен - YouTube",
+    "url": "https://www.youtube.com/watch?v=u7NUb5ThFOY",
+    "description": "",
+    "tags": [],
+    "is_organized": false
+  },
+  {
+    "title": "",
+    "url": "https://youtu.be/6S4VmiKTEVU?si=-G881URi4jf4VqgC",
+    "description": "",
+    "tags": [],
+    "is_organized": false
+  },
+  {
+    "title": "",
+    "url": "https://youtu.be/VCW0Whwfl9s?si=TzUP544JAdpMbRg9",
+    "description": "",
+    "tags": [],
+    "is_organized": false
+  },
+  {
+    "title": "",
+    "url": "https://blog.sshh.io/p/how-i-use-every-claude-code-feature",
+    "description": "",
+    "tags": [],
+    "is_organized": false
+  },
+  {
+    "title": "",
+    "url": "https://www.youtube.com/watch?v=niMXOMwMWcA",
+    "description": "",
+    "tags": [],
+    "is_organized": false
+  },
+  {
+    "title": "",
+    "url": "https://emilhvitfeldt.com/post/positron-settings-extensions/#positron-specific-settings",
+    "description": "",
+    "tags": [],
+    "is_organized": false
+  },
+  {
+    "title": "",
+    "url": "https://www.ssp.sh/blog/diary-of-a-data-engineer/",
+    "description": "",
+    "tags": [],
+    "is_organized": false
+  },
+  {
+    "title": "",
+    "url": "https://www.youtube.com/watch?v=FVAO2HSknb0",
+    "description": "",
+    "tags": [],
+    "is_organized": false
+  },
+  {
+    "title": "",
+    "url": "https://www.youtube.com/watch?v=L9nYBg97BKA",
+    "description": "",
+    "tags": [],
+    "is_organized": false
+  },
+  {
+    "title": "",
+    "url": "https://youtu.be/BhXy55JO3vw?si=6Sv80PtfXiEwKd-L",
+    "description": "",
+    "tags": [],
+    "is_organized": false
+  },
+  {
+    "title": "The Best Flexbox & Grid Tricks You Need to Start Using - YouTube",
+    "url": "https://www.youtube.com/watch?v=yNyR_A73eTI&t=2s",
+    "description": "",
+    "tags": [],
+    "is_organized": false
+  },
+  {
+    "title": "",
+    "url": "https://github.com/dhamaniasad/awesome-postgres",
+    "description": "",
+    "tags": [],
+    "is_organized": false
+  },
+  {
+    "title": "",
+    "url": "https://www.youtube.com/watch?v=UyDwf3VMS8c",
+    "description": "",
+    "tags": [],
+    "is_organized": false
+  },
+  {
+    "title": "",
+    "url": "https://youtu.be/Lfm8M-2d-2I?si=ssnuxo0b7IlqcmH_",
+    "description": "",
+    "tags": [],
+    "is_organized": false
+  },
+  {
+    "title": "",
+    "url": "https://youtu.be/q68TPmSPh3Q?si=qqrt_ADk9Zfxg0d8",
+    "description": "",
+    "tags": [],
+    "is_organized": false
+  },
+  {
+    "title": "",
+    "url": "https://www.youtube.com/watch?v=D1ozwMnZj3A",
+    "description": "",
+    "tags": [],
+    "is_organized": false
+  },
+  {
+    "title": "Як створити музичний анімаційний кліп: Flow + Nano Banana 2 - YouTube",
+    "url": "https://www.youtube.com/watch?v=0Hgz2dPNuic",
+    "description": "",
+    "tags": [],
+    "is_organized": false
+  },
+  {
+    "title": "",
+    "url": "https://www.youtube.com/watch?v=3ms3QpP1pm0",
+    "description": "",
+    "tags": [],
+    "is_organized": false
+  },
+  {
+    "title": "",
+    "url": "https://www.youtube.com/watch?v=oMlV2BhPrS4",
+    "description": "",
+    "tags": [],
+    "is_organized": false
+  },
+  {
+    "title": "How to do the Titanic Kaggle Competition - YouTube",
+    "url": "https://www.youtube.com/watch?v=pUSi5xexT4Q",
+    "description": "",
+    "tags": [],
+    "is_organized": false
+  },
+  {
+    "title": "staying focused in a distracted world is easy actually - YouTube",
+    "url": "https://www.youtube.com/watch?v=3usOPt3hZfw",
+    "description": "",
+    "tags": [],
+    "is_organized": false
+  },
+  {
+    "title": "Beginner Data Science Portfolio Project Walkthrough (Kaggle Titanic) - YouTube",
+    "url": "https://www.youtube.com/watch?v=6IGx7ZZdS74",
+    "description": "",
+    "tags": [],
+    "is_organized": false
+  },
+  {
+    "title": "Kaggle Competition - Titanic Dataset | Great Learning - YouTube",
+    "url": "https://www.youtube.com/watch?v=Gc-D7ZAGYvQ",
+    "description": "",
+    "tags": [],
+    "is_organized": false
+  },
+  {
+    "title": "Kaggle Data Science Competition Course – Solve Three Challenges Step-by-Step - YouTube",
+    "url": "https://www.youtube.com/watch?v=BV03sQ0srcU",
+    "description": "",
+    "tags": [],
+    "is_organized": false
+  },
+  {
+    "title": "AI Engineering: A *Realistic* Roadmap for Beginners - YouTube",
+    "url": "https://www.youtube.com/watch?v=dbUIjFXIpis&t=44s",
+    "description": "",
+    "tags": [],
+    "is_organized": false
+  },
+  {
+    "title": "",
+    "url": "https://youtu.be/wtfSaqAFy74?is=OkvdTybcJSZ0ULu8",
+    "description": "",
+    "tags": [],
+    "is_organized": false
+  },
+  {
+    "title": "The FASTEST Way to Learn ANY Language (even if you're busy) - YouTube",
+    "url": "https://www.youtube.com/watch?v=vQ2V2ikeWZM",
+    "description": "",
+    "tags": [],
+    "is_organized": false
+  },
+  {
+    "title": "Interview recording: System Design interview for 160.000$+ position (EU) - YouTube",
+    "url": "https://www.youtube.com/watch?v=cqgopoaCIMM",
+    "description": "",
+    "tags": [],
+    "is_organized": false
+  },
+  {
+    "title": "Prompt Engineering is dead. - YouTube",
+    "url": "https://www.youtube.com/watch?v=Cs7QiSi8KLY",
+    "description": "",
+    "tags": [],
+    "is_organized": false
+  },
+  {
+    "title": "How to add Google OAuth in Local Supabase project | Server Component | Server Action | Google Login - YouTube",
+    "url": "https://www.youtube.com/watch?v=gHXThLyUTBI",
+    "description": "",
+    "tags": [],
+    "is_organized": false
+  },
+  {
+    "title": "I Tried 39 AI Engineering Courses: Here Are the BEST 5 - YouTube",
+    "url": "https://www.youtube.com/watch?v=OOO_x3Oh2nE",
+    "description": "",
+    "tags": [],
+    "is_organized": false
+  },
+  {
+    "title": "",
+    "url": "https://youtu.be/DlAZbS0L--c?is=A1hzzw1DWOxah7dQ",
+    "description": "",
+    "tags": [],
+    "is_organized": false
+  },
+  {
+    "title": "",
+    "url": "https://youtu.be/fbmXKimh5wM?is=OUDTglI7t9I9Bjnf",
+    "description": "",
+    "tags": [],
+    "is_organized": false
+  },
+  {
+    "title": "But what is a neural network? | Deep learning chapter 1 - YouTube",
+    "url": "https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi",
+    "description": "",
+    "tags": [],
+    "is_organized": false
+  },
+  {
+    "title": "",
+    "url": "https://youtu.be/Wl-9KmQ9L9s?is=pCjhBMbwrqo_FLGz",
+    "description": "",
+    "tags": [],
+    "is_organized": false
+  },
+  {
+    "title": "",
+    "url": "https://youtu.be/P0AKdmmy8MY?is=D-M7yGif1XFf5BXz",
+    "description": "",
+    "tags": [],
+    "is_organized": false
+  },
+  {
+    "title": "Chessnut - The Ultimate Smart Chess eBoard | As Seen in 100,000+ Homes",
+    "url": "https://www.chessnutech.com/",
+    "description": "",
+    "tags": [],
+    "is_organized": false
+  },
+  {
+    "title": "Give me 5 minutes. I'll Fix your Hips. (5 simple steps) - YouTube",
+    "url": "https://www.youtube.com/watch?v=2Fmx-iHsKYg",
+    "description": "",
+    "tags": [],
+    "is_organized": false
+  },
+  {
+    "title": "Эти 12 минут сэкономят тебе 10 лет саморазвития - YouTube",
+    "url": "https://www.youtube.com/watch?v=2T-YUpSsC_A&t=30s",
+    "description": "",
+    "tags": [],
+    "is_organized": false
+  },
+  {
+    "title": "",
+    "url": "https://youtu.be/maIe_S0U1ow?is=iAEl_rKeFhZsYj6Y",
+    "description": "",
+    "tags": [],
+    "is_organized": false
+  },
+  {
+    "title": "\"not just a boat\" SUPMaRaN - YouTube",
+    "url": "https://www.youtube.com/watch?v=IgvopKCIv5M",
+    "description": "",
+    "tags": [],
+    "is_organized": false
+  },
+  {
+    "title": "",
+    "url": "https://youtu.be/iTFCddXk0CM?is=dVB85dO69NRmFYL1",
+    "description": "",
+    "tags": [],
+    "is_organized": false
+  },
+  {
+    "title": "Agentic Engineering: Мій ідеальний AI Workflow розробки - YouTube",
+    "url": "https://www.youtube.com/watch?v=4uLqamwjl-w&t=649s",
+    "description": "",
+    "tags": [],
+    "is_organized": false
+  },
+  {
+    "title": "",
+    "url": "https://youtu.be/H964RpaJvu0?is=N-hC5ksnaMB4GnTj",
+    "description": "",
+    "tags": [],
+    "is_organized": false
+  },
+  {
+    "title": "",
+    "url": "https://www.youtube.com/watch?v=iOL4a9Ek_a0",
+    "description": "",
+    "tags": [],
+    "is_organized": false
+  },
+  {
+    "title": "25 Best Single-Player Games Everyone Must Play - YouTube",
+    "url": "https://www.youtube.com/watch?v=vuRQ0UvRlso",
+    "description": "",
+    "tags": [],
+    "is_organized": false
+  },
+  {
+    "title": "",
+    "url": "https://www.reddit.com/r/ClaudeAI/s/Di6Jf9ZJAm",
+    "description": "",
+    "tags": [],
+    "is_organized": false
+  },
+  {
+    "title": "Claude Code: Build Your Full AI Marketing Team (Agents + Claude Skills) - YouTube",
+    "url": "https://www.youtube.com/watch?v=yLXLHnD4fco",
+    "description": "",
+    "tags": [],
+    "is_organized": false
+  },
+  {
+    "title": "",
+    "url": "https://www.ixbt.com/live/offtopic/kompaniya-libernovo-predstavila-novoe-ofisnoe-kreslo-omni-kotoroe-sleduet-za-dvizheniyami-tela.html",
+    "description": "",
+    "tags": [],
+    "is_organized": false
+  },
+  {
+    "title": "Krav Maga",
+    "url": "https://ymakravmaga.com/",
+    "description": "",
+    "tags": [],
+    "is_organized": false
+  },
+  {
+    "title": "ТОП-5 боевых искусств для людей интеллектуального и творческого труда - YouTube",
+    "url": "https://www.youtube.com/watch?v=i4uD9nDCpqs",
+    "description": "",
+    "tags": [],
+    "is_organized": false
+  },
+  {
+    "title": "ТОЛЬКО БЕЗ СПОЙЛЕРОВ! #shorts #shushixlive #outerwilds #tunic #thewitness #игры - YouTube",
+    "url": "https://www.youtube.com/shorts/4vmtcrhiDFQ",
+    "description": "",
+    "tags": [],
+    "is_organized": false
+  },
+  {
+    "title": "HKUDS/CLI-Anything: \"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+    "url": "https://github.com/HKUDS/CLI-Anything",
+    "description": "",
+    "tags": [],
+    "is_organized": false
+  },
+  {
+    "title": "",
+    "url": "https://youtube.com/shorts/O7aimMbIAvA?is=h0KNyoDTV--Og556",
+    "description": "",
+    "tags": [],
+    "is_organized": false
+  },
+  {
+    "title": "",
+    "url": "https://youtu.be/ChA6wkgGJbU?is=tgtpFtd6upBMEhwf",
+    "description": "",
+    "tags": [],
+    "is_organized": false
+  },
+  {
+    "title": "6 Упражнений, Которые Строят Мышцы Лучше Зала - YouTube",
+    "url": "https://www.youtube.com/watch?v=5enhtB1_1o4",
+    "description": "",
+    "tags": [],
+    "is_organized": false
+  },
+  {
+    "title": "",
+    "url": "https://github.com/Keychron/Keychron-Keyboards-Hardware-Design",
+    "description": "",
+    "tags": [],
+    "is_organized": false
+  },
+  {
+    "title": "",
+    "url": "https://youtu.be/G_xVY2eXldE?is=CjcLJ-XN2tet84rL",
+    "description": "",
+    "tags": [],
+    "is_organized": false
+  },
+  {
+    "title": "",
+    "url": "https://youtu.be/wjqugbMjLZ0?is=iccKlHftRxqLD-ic",
+    "description": "",
+    "tags": [],
+    "is_organized": false
+  }
+]
